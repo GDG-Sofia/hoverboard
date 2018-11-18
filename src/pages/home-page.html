@@ -20,70 +20,56 @@
     <style is="custom-style" include="shared-styles flex flex-alignment"></style>
 
     <style>
-
       :host {
         display: block;
         height: 100%;
       }
-
       hero-block {
         font-size: 24px;
         text-align: center;
       }
-
       .hero-logo {
         --iron-image-width: 100%;
         max-width: 240px;
       }
-
       .info-items {
         margin: 24px auto;
         font-size: 22px;
       }
-
       .info-items > *:not(:first-of-type) {
         margin-top: 4px;
       }
-
       .action-buttons {
         margin: 0 -8px;
         font-size: 14px;
       }
-
       .action-buttons paper-button {
         margin: 8px;
       }
-
       .action-buttons .watch-video {
         color: #fff;
       }
-
       .action-buttons iron-icon {
         --iron-icon-fill-color: currentColor;
         margin-right: 8px;
       }
-
       .scroll-down {
         margin-top: 24px;
         color: currentColor;
         user-select: none;
         cursor: pointer;
       }
-
       .scroll-down svg {
         width: 24px;
         opacity: 0.6;
       }
-
       .scroll-down .stroke {
         stroke: currentColor;
       }
-
       .scroll-down .scroller {
         fill: currentColor;
         animation: updown 2s infinite;
       }
-
       @keyframes updown {
         0% {
           transform: translate(0, 0)
@@ -95,17 +81,14 @@
           transform: translate(0, 0)
         }
       }
-
       @media (min-height: 500px) {
         hero-block {
           height: calc(100% + 57px);
           max-height: calc(100vh + 1px);
         }
-
         .home-content {
           margin-top: -48px;
         }
-
         .scroll-down {
           position: absolute;
           bottom: 24px;
@@ -114,16 +97,13 @@
           z-index: 2;
         }
       }
-
       @media (min-width: 812px) {
         hero-block {
           height: calc(100% + 65px);
         }
-
         .hero-logo {
           max-width: 320px;
         }
-
         .info-items {
           margin: 48px auto;
           font-size: 28px;
@@ -143,9 +123,9 @@
       hide-logo
     >
       <div class="home-content" layout vertical center>
-        <plastic-image class="hero-logo" srcset="/images/logo.svg" alt="{$ title $}"></plastic-image>
+        <plastic-image class="hero-logo" srcset="/images/logo.png" alt="{$ title $}"></plastic-image>
         <div class="info-items highlight-font">
-          <div class="info-item">{$ location.city $}. {$ dates $}</div>
+          <div class="info-item">{$ dates $}</div>
           <div class="info-item">{$ heroSettings.home.description $}</div>
         </div>
 
@@ -162,17 +142,12 @@
             <iron-icon icon="hoverboard:movie"></iron-icon>
             {$ viewHighlights $}
           </paper-button>
-          <paper-button
-            on-tap="_scrollToTickets"
-            ga-on="click"
-            ga-event-category="tickets"
-            ga-event-action="scroll"
-            ga-event-label="hero block - scroll to tickets"
+          <a href="https://www.eventbrite.com/e/devfest-2018-sofia-tickets-50222983295" target="blank"><paper-button
             primary invert
           >
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
-          </paper-button>
+          </paper-button></a>
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -187,24 +162,20 @@
     <about-block></about-block>
     <speakers-block></speakers-block>
     <subscribe-block></subscribe-block>
-    <tickets-block></tickets-block>
     <gallery-block></gallery-block>
     <about-organizer-block></about-organizer-block>
     <featured-videos></featured-videos>
-    <latest-posts-block></latest-posts-block>
     <map-block></map-block>
     <partners-block></partners-block>
     <footer-block></footer-block>
   </template>
 
   <script>
-
     // eslint-disable-next-line no-undef
     class HomePage extends ScrollFunctions(ReduxMixin(Polymer.Element)) {
       static get is() {
         return 'home-page';
       }
-
       static get properties() {
         return {
           active: Boolean,
@@ -214,7 +185,6 @@
           },
         };
       }
-
       _playVideo() {
         uiActions.toggleVideoDialog({
           title: '{$  aboutBlock.callToAction.howItWas.title $}',
@@ -223,7 +193,6 @@
           opened: true,
         });
       }
-
       _scrollToTickets() {
         // eslint-disable-next-line no-undef
         const toolbarHeight = HOVERBOARD.Elements.HeaderToolbar.getBoundingClientRect().height - 1;
@@ -232,15 +201,11 @@
           - toolbarHeight;
         this.scrollToY(ticketsBlockPositionY, 600, 'easeInOutSine');
       }
-
       _scrollNextBlock() {
         const heroHeight = this.$.hero.getBoundingClientRect().height - 64;
         this.scrollToY(heroHeight, 600, 'easeInOutSine');
       }
     }
-
     window.customElements.define(HomePage.is, HomePage);
-
   </script>
 </dom-module>
-

@@ -69,35 +69,30 @@
       <div class="content">
 
         <div>
-          <h1 class="container-title">{$ aboutBlock.title $}</h1>
-          <p>{$ aboutBlock.callToAction.featuredSessions.description $}</p>
+          <h1 class="container-title">About GDG DevFest 2018 Sofia</h1>
+          <h2>Conference:</h2>
+          <p>GDG DevFest Sofia brings together the world class experts in Android, Web and Cloud technologies to Sofia, Bulgaria a day full of sessions. The largest Google tech conference worldwide is organized and brought to Bulgaria by GDG Sofia & Women Techmakers, TechHuddle, DataArt & Qualifast Ltd.</p>
+
+          <h2>Workshops:</h2>
+          <p>Curious to develop Chatbots? Interested in Google Assistant programming? Join our hands-on workshop led by the best Bulgarian IT academies.</p>
+
+          <h2>Socializing:</h2>
+          <p>Join the afterparty with free drinks & entertainment! Relax after the sessions, win some prizes at the raffle, and socialize with peers from the developer community.</p>
+
           <a
-            href="{$ aboutBlock.callToAction.featuredSessions.link $}"
+            href="https://www.youtube.com/user/GoogleDevelopers"
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
-            ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
+            ga-event-label="Explore GDG content"
             target="_blank"
             rel="noopener noreferrer"
           >
             <paper-button class="animated icon-right">
-              <span class="cta-label">{$ aboutBlock.callToAction.featuredSessions.label $}</span>
+              <span class="cta-label">Explore GDG content</span>
               <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
             </paper-button>
           </a>
-
-          <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
-          <paper-button
-            class="animated icon-right"
-            on-tap="_playVideo"
-            ga-on="click"
-            ga-event-category="video"
-            ga-event-action="watch"
-            ga-event-label="about block - {$ aboutBlock.callToAction.howItWas.label $}"
-          >
-            <span>{$  aboutBlock.callToAction.howItWas.label $}</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
         </div>
 
         <div class="statistics-block">
@@ -108,8 +103,8 @@
           </div>
 
           <div class="item">
-            <div class="numbers">{$ aboutBlock.statisticsBlock.days.number $}</div>
-            <div class="label">{$ aboutBlock.statisticsBlock.days.label $}</div>
+            <div class="numbers">{$ aboutBlock.statisticsBlock.hours.number $}</div>
+            <div class="label">{$ aboutBlock.statisticsBlock.hours.label $}</div>
           </div>
 
           <div class="item">
@@ -120,7 +115,6 @@
           <div class="item">
             <div class="numbers">{$ aboutBlock.statisticsBlock.tracks.number $}</div>
             <div class="label">{$ aboutBlock.statisticsBlock.tracks.label $}</div>
-          </div>
 
         </div>
       </div>
