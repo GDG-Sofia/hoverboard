@@ -52,74 +52,59 @@
           flex-direction: column;
         };
       }
-
       app-drawer app-toolbar {
         padding: 36px 24px 24px;
         border-bottom: 1px solid var(--divider-color);
       }
-
       app-drawer .dates {
         margin-top: 42px;
         font-size: 22px;
         line-height: 0.95;
       }
-
       app-drawer .location {
         margin-top: 4px;
         font-size: 15px;
         color: var(--secondary-text-color);
       }
-
       .drawer-list {
         padding: 16px 0;
         display: block;
       }
-
       .drawer-list a {
         display: block;
         color: var(--primary-text-color);
         outline: 0;
       }
-
       app-drawer a {
         padding: 8px 24px;
       }
-
       .drawer-list a.selected {
         font-weight: 500;
       }
-
       app-toolbar {
         height: auto;
       }
-
       .toolbar-logo {
         --iron-image-height: 32px;
       }
-
       app-header-layout {
         margin-top: -1px;
       }
-
       app-header.remove-shadow::before {
         opacity: 0;
       }
-
       iron-lazy-pages {
         background-color: var(--primary-background-color);;
         min-height: 100%;
         height: 100%;
       }
-
       .drawer-content iron-icon {
         --iron-icon-width: 14px;
         margin-left: 6px;
       }
-
       .buy-ticket {
         padding: 16px 24px;
       }
-
       @media (min-width: 640px) {
         app-toolbar {
           padding: 0 36px;
@@ -146,7 +131,7 @@
 
       <app-drawer id="drawer" slot="drawer" opened="[[ui.isDrawerOpened]]" swipe-open>
         <app-toolbar layout vertical start>
-          <plastic-image class="toolbar-logo" srcset="/images/logo-monochrome.svg" alt="{$ title $}"></plastic-image>
+          <plastic-image class="toolbar-logo" srcset="/images/logowhite.png" alt="{$ title $}"></plastic-image>
           <h2 class="dates">{$ dates $}</h2>
           <h3 class="location">{$ location.short $}</h3>
         </app-toolbar>
@@ -294,7 +279,6 @@
       static get is() {
         return 'hoverboard-app';
       }
-
       static get properties() {
         return {
           ui: {
@@ -339,14 +323,12 @@
           },
         };
       }
-
       static get observers() {
         return [
           '_routeDataChanged(routeData.page, subroute.path)',
           '_viewportChanged(isPhoneSize, isLaptopSize)',
         ];
       }
-
       constructor() {
         super();
         Polymer.setPassiveTouchGestures(true);
@@ -355,7 +337,6 @@
         this._toggleHeaderShadow = this._toggleHeaderShadow.bind(this);
         this._toggleDrawer = this._toggleDrawer.bind(this);
       }
-
       connectedCallback() {
         super.connectedCallback();
         window.addEventListener('reset-query-params', this._removeQueryParams);
@@ -368,14 +349,12 @@
         });
         this.dispatch(ticketsActions.fetchTickets());
       }
-
       disconnectedCallback() {
         super.disconnectedCallback();
         window.removeEventListener('reset-query-params', this._removeQueryParams);
         window.removeEventListener('element-sticked', this._toggleHeaderShadow);
         this.$.drawer.removeEventListener('opened-changed', this._toggleDrawer);
       }
-
       ready() {
         super.ready();
         // eslint-disable-next-line no-console
@@ -384,11 +363,9 @@
         this._ensureLazyLoaded();
         userActions.updateUser();
       }
-
       closeDrawer() {
         uiActions.toggleDrawer(false);
       }
-
       _ensureLazyLoaded() {
         if (!this.loadComplete) {
           Polymer.RenderStatus.afterNextRender(this, () => {
@@ -400,20 +377,17 @@
           });
         }
       }
-
       _routeDataChanged(page, subroutePath) {
         if (!page && page !== '') {
           return;
         }
         const hasSubroute = subroutePath !== '' && subroutePath !== '/';
-
         if (!this.route || (page !== this.route.route)) {
           !hasSubroute && this.scrollToY(0, 100);
           routingActions.setRoute(page);
           this.$.header.classList.remove('remove-shadow');
         }
       }
-
       _viewportChanged(isPhoneSize, isLaptopSize) {
         uiActions.setViewportSize({
           isPhone: isPhoneSize,
@@ -421,7 +395,6 @@
           isLaptopPlus: isLaptopSize,
         });
       }
-
       _dialogToggled(dialogs) {
         if (this._openedDialog) {
           document.body.style.overflow = '';
@@ -432,20 +405,16 @@
           document.body.style.overflow = 'hidden';
         }
       }
-
       _removeQueryParams() {
         this.set('queryParams', null);
       }
-
       _toggleHeaderShadow(e) {
         this.$.header.classList.toggle('remove-shadow', e.detail.sticked);
       }
-
       _toggleDrawer(e) {
         uiActions.toggleDrawer(e.detail.value);
       }
     }
-
     window.customElements.define(HoverboardApp.is, HoverboardApp);
   </script>
 
