@@ -116,9 +116,8 @@
           messagingSenderId: '{$ firebase.messagingSenderId $}',
         });
 
-        const firestore = firebase.firestore();
-        firestore.settings({ timestampsInSnapshots: true });
-        firebase.firestore().enablePersistence()
+        firebase.firestore()
+          .enablePersistence({ experimentalTabSynchronization: true })
           .catch(() => {
             console.warn('DB offline support not available'); // eslint-disable-line no-console
           });
@@ -188,6 +187,11 @@
       ga('send', 'timing', 'index.html', 'render', indexRenderTime);
     }
   };
+
+  window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    uiActions.setAddToHomeScreen(e);
+  });
 </script>
 
 </body>
