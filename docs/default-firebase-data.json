@@ -356,8 +356,7 @@
           "name": "LinkedIn"
         }],
         "order": 1
-      },
-      {
+      }, {
         "name": "Tom Mladenov",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
@@ -367,6 +366,16 @@
           "name": "LinkedIn"
         }],
         "order": 6
+      }, {
+        "name": "Marchela Mincheva",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Marchela Mincheva.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FMarchela%20Mincheva.jpg?alt=media&token=80adf037-6f49-4696-adf8-889649cd69e0",
+        "socials": [{
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/marchela-mincheva/",
+          "name": "LinkedIn"
+        }],
+        "order": 7
       }, {
         "name": "Boris Strandjev",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/BorisStrandjev.jpg",
