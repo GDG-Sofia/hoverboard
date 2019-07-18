@@ -47,14 +47,15 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47389914_1242218572585467_9128233859798794240_o.jpg?alt=media&token=ccba6442-0c79-4605-ba76-b8da9004aa4f",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47392878_1242215059252485_3945354033232871424_o.jpg?alt=media&token=616f2e5f-dd76-4b2c-8682-c24507b5f2bd",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47484848_1242215335919124_3145709956842389504_o.jpg?alt=media&token=cde69742-1262-4520-8502-f7851623becb",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47395232_1242215385919119_5659180189179969536_o.jpg?alt=media&token=6ff32fe1-7111-459a-b0a3-fe6f94e32773",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47396514_1242216969252294_1341486855417233408_o.jpg?alt=media&token=933b0886-cc72-4473-878a-7e7d2747b061",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47396861_1242218025918855_8478355220005388288_o.jpg?alt=media&token=e18722e8-7b79-46be-9a1b-b7d2f009371c",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47500394_1242221265918531_8738629104271622144_o.jpg?alt=media&token=b2db975e-d49a-4599-931b-f8f765b94ebd",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47572338_1242215819252409_253805538964406272_o.jpg?alt=media&token=ca23b5f5-6bf2-4c3f-9be0-d1936687689e",
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F24034239448_9a1762363d_o.jpg?alt=media&token=57c34312-0837-4c26-a572-2498bca20757"
   ],
   "notifications": {
     "config": {
