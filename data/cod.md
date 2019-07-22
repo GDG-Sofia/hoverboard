@@ -1,36 +1,18 @@
+GDG Sofia is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. GDG Sofia takes violations of our policy seriously and will respond appropriately.
 
-GDG Sofia is group of enthusiasts that gather around Google technologies. We organize different eventс - seminars, conferences,  dine outs and discuss this common interest of ours within our communities.
+All participants of GDG Sofia  events must abide by the following policy:
 
-Disclaimer: GDG Sofia is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit https://developers.google.com/groups/
+1. Be excellent to each other. We want the event to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be here -- and each of us has the right to enjoy our experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
+2. Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund. If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
+3. Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+4. Practice saying "Yes and" to each other. It’s a theatre improv technique to build on each other’s ideas. We all benefit when we create together.
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all GDG Sofia events.
-
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers, and volunteers at any GDG Sofia event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout events.
-
-The Short Version
-
-GDG Sofia is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of GDG Sofia participants in any form.
-
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any Meetup venue, including talks.
-
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
-
-Attendees violating these rules may be asked to leave the GDG Sofia community at the sole discretion of the community organizers.
-
-Thank you for helping make our community a welcoming, friendly environment for all.
-
-The Longer Version
-
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, persistent following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Participants asked to stop any harassing behavior are expected to comply immediately. Further unacceptable behavior will result in escalating sanctions.
-
-Exhibitors and sponsors are also subject to the anti-harassment policy. In particular, exhibitors and sponsors should not use sexualized images, activities, or other material.
-
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. If you think your conversation is making another community member uncomfortable, try to make amends and move forward.
-
-If a participant engages in behavior that violates this code of conduct, the GDG Sofia organizers may take any action they deem appropriate, including warning the offender, expulsion from the community, or legal action.
-
-Contact Information
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any of the GDG Sofia organizers. Meetup organizers can be found on the Organizers page of the Meetup.com site.
+This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. GDG Sofia reserves the right to refuse admittance to, or remove any person from, any GDG Sofia hosted event (including future GDG Sofia events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund.
+Our event staff can usually be identified by special badges/attire. Our zero tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. Please note, while we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
+Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance.
+Exhibiting partners, sponsors or vendor booths, or similar activities are also subject to this policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. Participants and exhibiting partners or sponsors disobeying this policy will be notified and are expected to stop any offending behavior immediately.
+#### Why this policy is important
+Harassment at events and in online communities is unfortunately common. Creating an official policy aims to improve this by making it clear that harassment of anyone for any reason is not acceptable within our events and communities. This policy may prevent harassment by clearly defining expectations for behavior, aims to provide reassurance, and encourages people who have had bad experiences at other events to participate in this one.
+#### License and attribution
+This policy is licensed under the Creative Commons Zero license.
+This policy is based on and influenced by several other community policies including: Ohio LinuxFest Anti-Harassment policy, Con Anti-Harassment Project, Geek Feminism Wiki (created by the Ada Initiative), ConfCodeofConduct.com, JSconf, Rust, Diversity in Python, and Write/Speak/Code.
