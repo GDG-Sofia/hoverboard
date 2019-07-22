@@ -68,12 +68,38 @@
     "users": {}
   },
   "partners": [{
-    "logos": [{
-      "order": 0,
-      "logoUrl": "../images/logos/qf-logo.svg",
-      "name": "Qualifast",
-      "url": "https://qualifast.bg"
-    }],
+    "logos": [
+      {
+        "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fgdg-sofia-logo.png?alt=media&token=ab85a4a1-3906-41ae-beef-25eb0b191ed9",
+        "name": "GDG Sofia",
+        "url": "https://www.meetup.com/GDG-Sofia"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FPowered%20byWTM.png?alt=media&token=98e35c40-96c6-4791-afa3-31d6bcc9f622",
+        "name": "Women Techmakers Sofia",
+        "url": "https://www.meetup.com/Women-Techmakers-Sofia"
+      },
+      {
+        "order": 2,
+        "logoUrl": "../images/logos/qf-logo.svg",
+        "name": "Qualifast",
+        "url": "https://qualifast.bg"
+      },
+      {
+        "order": 3,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fdevexperts-logo.png?alt=media&token=4cacb360-8328-4b6e-adbf-e3ac72cf7fdb",
+        "name": "Devexperts",
+        "url": "https://devexperts.com"
+      },
+      {
+        "order": 4,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FTripinfy-logo.png?alt=media&token=bb712645-9ba0-4c4a-9012-7f26e2df8139",
+        "name": "Tripinfy",
+        "url": "https://www.tripinfy.com"
+      }
+    ],
     "order": 0,
     "title": "Organizers"
   }],
@@ -337,16 +363,6 @@
           "name": "Facebook"
         }],
         "order": 3
-      }, {
-        "name": "Pavlina Zlateva",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Pavlina Zlateva.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FPavlina%20Zlateva.jpg?alt=media&token=e9b60958-4e16-4dc0-9116-3b5b2333ee65",
-        "socials": [{
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/pavlinazlateva/",
-          "name": "Linkedin"
-        }],
-        "order": 5
       }, {
         "name": "Sofia Lyateva",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
