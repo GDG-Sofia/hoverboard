@@ -145,7 +145,7 @@
       {
         "name": "facebook",
         "url": "https://www.facebook.com/events/386278951907136/"
-      }, 
+      },
       {
         "name": "meetup",
         "url": "https://www.meetup.com/GDG-Sofia/events/254172057/"
@@ -182,11 +182,17 @@
         "name": "facebook",
         "label": "Sign in with Facebook",
         "url": "https://www.facebook.com"
+      },
+      {
+        "name": "twitter",
+        "label": "Sign in with Twitter",
+        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
       "https://accounts.google.com",
-      "https://www.facebook.com"
+      "https://www.facebook.com",
+      "https://twitter.com"
     ]
   },
   "contentLoaders": {
