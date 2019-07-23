@@ -1,0 +1,57 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../elements/polymer-helmet.html">
+<link rel="import" href="../elements/hero-block.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../elements/md-content.html">
+
+<dom-module id="cookies-page">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+
+    <polymer-helmet
+      title="{$ heroSettings.cookies.title $} | {$ title $}"
+      description="{$ heroSettings.cookies.metaDescription $}"
+      active="[[active]]"
+    ></polymer-helmet>
+
+    <hero-block
+      background-image="{$ heroSettings.cookies.background.image $}"
+      background-color="{$ heroSettings.cookies.background.color $}"
+      font-color="{$ heroSettings.cookies.fontColor $}"
+      active="[[active]]"
+    >
+      <div class="hero-title highlight-font">{$ heroSettings.cookies.title $}</div>
+      <p class="hero-description">{$ heroSettings.cookies.description $}</p>
+    </hero-block>
+
+    <md-content md-source="[[source]]"></md-content>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    // eslint-disable-next-line no-undef
+    class CookiesPage extends Polymer.Element {
+      static get is() {
+        return 'cookies-page';
+      }
+
+      static get properties() {
+        return {
+          active: Boolean,
+          source: {
+            type: String,
+            value: '{$ cookies $}',
+          },
+        };
+      }
+    }
+
+    window.customElements.define(CookiesPage.is, CookiesPage);
+  </script>
+</dom-module>

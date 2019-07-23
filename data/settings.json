@@ -100,7 +100,31 @@
     },
     "cod": {
       "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "metaDescription": "Please review these Terms carefully before using the Site and Services. By using any of the Site and Services, you accept these Terms",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "terms": {
+      "title": "Terms & Services",
+      "metaDescription": "Please review these Terms carefully before using the Site and Services. By using any of the Site and Services, you accept these Terms",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "privacy": {
+      "title": "Privacy Statement",
+      "metaDescription": "",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "cookies": {
+      "title": "Cookies",
+      "metaDescription": "Cookie Statement",
       "background": {
         "color": "#fff"
       },
