@@ -25,6 +25,9 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
+  "terms": "/data/terms.md",
+  "privacy": "/data/privacy.md",
+  "cookies": "/data/cookies.md",
   "footer": {
     "blog": "Blog"
   },
@@ -49,7 +52,7 @@
         {
           "name": "Meet the Team",
           "url": "/team/",
-          "newTab": true
+          "newTab": false
         }
       ]
     },
@@ -65,12 +68,23 @@
           "name": "FAQs",
           "url": "/faq/",
           "newTab": false
+        },
+        {
+          "name": "Privacy Statement",
+          "url": "/privacy/",
+          "newTab": false
+        },
+        {
+          "name": "Cookies",
+          "url": "/cookies/",
+          "newTab": false
         }
       ]
     }
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
+  "termsAndServices": "Terms & Services",
   "aboutBlock": {
     "title": "What you need to know, before you ask.",
     "callToAction": {
