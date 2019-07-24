@@ -54,8 +54,7 @@
     "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47396514_1242216969252294_1341486855417233408_o.jpg?alt=media&token=933b0886-cc72-4473-878a-7e7d2747b061",
     "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47396861_1242218025918855_8478355220005388288_o.jpg?alt=media&token=e18722e8-7b79-46be-9a1b-b7d2f009371c",
     "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47500394_1242221265918531_8738629104271622144_o.jpg?alt=media&token=b2db975e-d49a-4599-931b-f8f765b94ebd",
-    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47572338_1242215819252409_253805538964406272_o.jpg?alt=media&token=ca23b5f5-6bf2-4c3f-9be0-d1936687689e",
-    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F24034239448_9a1762363d_o.jpg?alt=media&token=57c34312-0837-4c26-a572-2498bca20757"
+    "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2F47572338_1242215819252409_253805538964406272_o.jpg?alt=media&token=ca23b5f5-6bf2-4c3f-9be0-d1936687689e"
   ],
   "notifications": {
     "config": {
@@ -481,6 +480,11 @@
     "images": false
   },
   "videos": [{
+    "speakers": "DevFest",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/gallery%2Fgdg-devfest-globe.png?alt=media&token=2f408c6b-0277-4747-aa95-33417b59a251",
+    "title": "Welcome to DevFest 2018!",
+    "youtubeId": "CKvi3sT3gU8"
+  }, {
     "speakers": "Yonatan Levin",
     "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
     "title": "Making mistakes and building products from 1st to 30M users",
