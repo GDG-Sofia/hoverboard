@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Sofia 2018",
+  "title": "GDG DevFest Sofia 2019",
   "url": "https://devfest.bg/",
   "description": "DevFest is the biggest Google Developers Group event happening around the globe, focused on community building and learning about Google technologies.",
   "image": "images/GDG_DevFest_MeetUp.jpg",
@@ -61,7 +61,7 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://bit.ly/2JBQbow",
+          "url": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/docs%2FDevFest%20Sofia%202019%20-%20Sponsorship%20Proposal.pdf?alt=media&token=6052ef96-a393-4dbd-874f-f4b32c758837",
           "newTab": true
         },
         {
@@ -102,23 +102,23 @@
     "statisticsBlock": {
       "attendees": {
         "label": "attendees from anywhere",
-        "number": "300+"
-      },
-      "days": {
-        "label": "Days",
-        "number": "1"
+        "number": "500+"
       },
       "hours": {
-        "label": "hours around web, mobile and cloud technology",
+        "label": "hours around the latest Google technologies",
         "number": "12+"
       },
-      "sessions": {
-        "label": "speakers from Bulgaria & all over the world",
-        "number": "10+"
-      },
       "tracks": {
-        "label": "tracks (1 main track and 1 workshop track)",
+        "label": "parallel tracks (Mobile and Web & Cloud)",
         "number": "2"
+      },
+      "speakers": {
+        "label": "speakers from Bulgaria & all over the world",
+        "number": "14+"
+      },
+      "workshops": {
+        "label": "workshops",
+        "number": "3"
       }
     }
   },
@@ -240,7 +240,7 @@
     "blocks": [
       {
         "title": "GDG sofia",
-        "description": "GDG Sofia is а group of enthusiasts that gather around Google technologies. We organize different events - seminars, conferences or just dine outs, and discuss the latests developments.",
+        "description": "GDG Sofia prides itself on being an inclusive environment. Everyone and anyone interested in tech - from beginner developers to experienced professionals - are welcome to join.\nWe are а group of enthusiasts that gather around Google technologies. Founded back in 2012, we organize various events - seminars, conferences or just community dine outs, and discuss the latest Google developments. With over 40 events since then and nearly 1000 community members, we are planning to bring the spirit of DevFest to Bulgaria for the second year in a roll.",
         "callToAction": {
           "label": "Open team page",
           "link": "https://www.meetup.com/GDG-Sofia/"
@@ -248,7 +248,7 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developer Groups (GDG) are non-profit & non-business communities of developers, programmers, coders and any other people having fun with software development. This is the perfect place for developers to share experiences and ideas in a relaxed, enthusiastic, positive, open-minded & respectful environment. Community is naturally open to all developers and all technologies.\nWhen you join a GDG, you’ll have the opportunity to meet local developers with similar interests in technology, attend talks on a wide range of technical topics, and learn new skills through hands-on workshops.\nTo learn more about the GDG program, visit https://developers.google.com/groups/",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
