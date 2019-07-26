@@ -405,20 +405,6 @@
       }
     ],
     "title": "Core Team"
-  }, {
-    "members": [{
-      "name": "Boris Strandjev",
-      "photo": "gs://event-22212.appspot.com/team/BorisStrandjev.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FBorisStrandjev.jpg?alt=media&token=dc53cc8e-294e-47ed-9f27-855779a9c45c",
-      "socials": [{
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/boris-strandjev-9a714325/ ",
-        "name": "LinkedIn"
-      }],
-      "order": 1,
-      "title": "Cloud stream"
-    }],
-    "title": "Program Committee"
   }],
   "tickets": [{
     "available": true,
