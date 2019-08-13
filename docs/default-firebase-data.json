@@ -101,7 +101,18 @@
     ],
     "order": 0,
     "title": "Organizers"
-  }],
+  }, {
+      "logos": [
+        {
+          "order": 0,
+          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fpaysafe.png?alt=media&token=3b59cc22-f2cc-4ff3-8686-dba97da9beed",
+          "name": "Paysafe Group",
+          "url": "https://www.paysafe.com"
+        }
+      ],
+      "order": 1,
+      "title": "Gold Sponsors"
+    }],
   "schedule": {
     "2016-09-10": {
       "dateReadable": "September 10",
