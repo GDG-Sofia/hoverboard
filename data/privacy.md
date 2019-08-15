@@ -13,11 +13,16 @@ Personal data means any information relating to an identified or identifiable na
 
 ### What personal data do we collect?
 
-We collect personal data about you from a variety of sources, such as:
+We collect personal data about you directly from you.
 
-Information we collect directly from you
-
-This is the personal data you provide us when using our website, products and services. For example, when you sign up to receive our newsletter, sign up to the website or buy a ticket for our events. This type of information may include your name, e-mail address, user name, telephone number, age, date of birth, gender, your employer, your position and other content you submit to our Platform and any other information you provide voluntarily to us.
+This is the personal data you provide us when using our website and registration platform (Weemss). For example, when you sign up to receive our newsletter, sign up to the website or buy a ticket for our events. This type of information may include your:
+- name (required)
+- e-mail address (required)
+- user name (required)
+- country (required)
+- your employer (required)
+- your position (required)
+- and/or other content you submit to our Platforms (devfest.bg and weemss.com) and any other information you provide voluntarily to us.
 
 We may use cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.
 
@@ -31,35 +36,35 @@ We may use information from a social sign-on using your Google credentials to cr
 
 We collect your personal data to provide you with the required services or information. The following are examples of how we may use the personal data we collect:
 
-Provide you with services and products that you request from us;
-Communicate regularly with you to inform you about event updates, content, special ticket offers and advertisements that may be of interest to you;
-Contact you if this is required to perform our services;
-To inform you about changes in our services and our Platform;
-Send you an invoice for our services and products;
-Resolve consumer and/or product and services issues;
-Anticipate and resolve problems with any goods or services supplied to you
-Improve your user experience on our websites;
-Do research and analysis to maintain, protect, develop and improve our networks and services;
-Deliver customized content or advertising such as personalized offers for services that may be of interest to you;
-Participate in our communities, including our social media channel/pages and blogs;
-Store your preferences for future interactions and communications from us;
-Create external marketing & analytics reports;
-Prevent illegal activities, suspected fraud and potential threats to our network;
-Analyse the characteristics of our participants at an aggregated level and participant utilization of our services in order to understand participants and their needs, to improve our existing services, to design new services and for further business development.
+- Provide you with services that you request from us - receiving our newsletters, event-related e-mails and confirmation for your participation fee;
+- Communicate regularly with you to inform you about event updates, content, special ticket offers and advertisements that may be of interest to you;
+- Contact you if this is required to inform you of any event changes;
+- To inform you about changes in the agenda
+- Send you an invoice for your ticket/participation fee;
+- Resolve any issues that might arise during your event registration;
+- Anticipate and resolve problems with the tickets supplied to you
+- Improve your user experience on our websites;
+- Do research and analysis to maintain, protect, develop and improve our networks;
+- Deliver customized content or advertising for services that may be of interest to you via Mailchimp or other mass mailing platforms that we use;
+- Participate in our communities, including our social media channel/pages and blogs;
+- Store your preferences for future interactions and communications from us;
+- Share your feedback about our events and conferences;
+- Create external marketing & analytics reports;
+- Prevent illegal activities, suspected fraud and potential threats to our network;
+- Analyse the characteristics of our participants at an aggregated level and participant utilization of our events in order to understand participants and their needs, to improve our events, to design new events and for further event and community development.
 
 ### Will we share your personal data with other parties?
 
-Your personal data will not be shared with third parties.
-Personal data will be processed by an administrator or personal data processor, including, in particular, providers of cloud hosting, file storage, CRM and eMail services.
-GDG Sofia  works only with reputable suppliers that provide sufficient guarantees for the application of appropriate technical and organizational measures in such a way that the processing proceeds in accordance with the GDPR requirements and to protect the rights of the data subjects.
+Your personal data will not be shared with third parties. 
+Your personal data may be processed by an administrator or personal data processor, including, in particular, providers of cloud hosting, file storage, CRM, eMail services and ticket selling platforms. GDG Sofia works only with reputable suppliers that provide sufficient guarantees for the application of appropriate technical and organizational measures in such a way that the processing proceeds in accordance with the GDPR requirements and to protect the rights of the data subjects. 
 These companies, though not exhaustive, are:
-MailChimp: https://mailchimp.com/legal/privacy/ 
-Weemss: https://weemss.com/data-processing-agreement/
-Google Drive: https://www.google.com/drive/terms-of-service/
-SuperHosting.BG: https://www.superhosting.com/web-hosting-page-terms-and-agreements.php 
-Google Analytics: https://privacy.google.com 
-Facebook: https://www.facebook.com/privacy/explanation 
-Meetup.com: https://www.meetup.com/privacy/ 
+- MailChimp: https://mailchimp.com/legal/privacy/ 
+- Weemss: https://weemss.com/data-processing-agreement/
+- Google Drive: https://www.google.com/drive/terms-of-service/
+- SuperHosting.BG: https://www.superhosting.com/web-hosting-page-terms-and-agreements.php 
+- Google Analytics: https://privacy.google.com 
+- Facebook: https://www.facebook.com/privacy/explanation 
+- Meetup.com: https://www.meetup.com/privacy/ 
 
 Some service providers may transfer data outside the EU when there is a decision on an adequate level of protection, for example, in the case of the EU-US Privacy Shield, or in the presence of other appropriate safeguards in accordance with GDPR requirements. For more information, you can review our vendor's privacy policies and contact us in one of the ways listed above.
 
@@ -95,7 +100,7 @@ This Privacy Statement may be changed from time to time. If we make any substant
 
 The new Privacy Statement will be effective immediately upon posting. By continuing to access our website or to make use of our services, you agree to be bound by the revised Privacy Statement.
 
-This Privacy Statement was last updated on July 24, 2019.
+This Privacy Statement was last updated on August 15, 2019.
 
 ### How can you contact us?
 
