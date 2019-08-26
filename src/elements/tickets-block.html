@@ -144,44 +144,7 @@
       </content-loader>
 
       <div class="tickets" layout horizontal wrap center-justified>
-        <template is="dom-repeat" items="[[tickets]]" as="ticket">
-          <a
-            class="ticket-item card"
-            href$="[[ticket.url]]"
-            target="_blank"
-            rel="noopener noreferrer"
-            sold-out$="[[ticket.soldOut]]"
-            in-demand$="[[ticket.inDemand]]"
-            on-tap="_onTicketTap"
-            ga-on="click"
-            ga-event-category="ticket"
-            ga-event-action="buy_click"
-            ga-event-label$="[[ticket.name]]"
-            layout vertical
-          >
-            <div class="header">
-              <h4>[[ticket.name]]</h4>
-            </div>
-            <div class="content" layout vertical flex-auto>
-              <div class="ticket-price-wrapper">
-                <div class="price">[[ticket.currency]][[ticket.price]]</div>
-                <div class="discount">[[_getDiscount(ticket)]]</div>
-              </div>
-              <div class="type-description" layout vertical flex-auto center-justified>
-                <div class="ticket-dates" hidden$="[[!ticket.starts]]">[[ticket.starts]] - [[ticket.ends]]</div>
-                <div class="ticket-info">[[ticket.info]]</div>
-              </div>
-            </div>
-            <div class="actions">
-              <div class="sold-out" block$="[[ticket.soldOut]]">
-                {$ ticketsBlock.soldOut $}
-              </div>
-              <paper-button primary hidden$="[[ticket.soldOut]]" disabled$="[[!ticket.available]]">
-                [[_getButtonText(ticket.available)]]
-              </paper-button>
-            </div>
-          </a>
-        </template>
+        <script src="https://cdn.weemss.com/compiled/js/integration-embed.js?v1.6"></script><iframe src="https://event.gg/13150/form" id="weemss_integration_13150" frameBorder="0" width="100%" height="550" scrolling="yes"></iframe>
       </div>
 
       <div class="additional-info">*{$ ticketsBlock.ticketsDetails $}</div>
