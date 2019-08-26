@@ -91,12 +91,12 @@
       "featuredSessions": {
         "description": "GDG DevFest Sofia brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": "https://www.youtube.com/playlist?list=PLk8d8hOjGHgagImb-hNfyScrq65joER"
       },
       "howItWas": {
         "description": "Described by many as 'Google I/O of Sofia', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "rogFr-B4pnM"
+        "label": "See how it was in 2018",
+        "youtubeId": "WZ1tZxLdVjA"
       }
     },
     "statisticsBlock": {
@@ -128,7 +128,7 @@
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today",
-    "comingSoon": "Coming soon"
+    "buyTicket": "Buy ticket"
   },
   "partnersBlock": {
     "title": "Partners",
@@ -145,7 +145,7 @@
     "title": "DevFest Featured videos:",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/watch?v=CKvi3sT3gU8&index=10&list=PL1blf2lcaPMSboE_A-UZ0C-gNU-l_4AEE"
+      "link": "https://www.youtube.com/watch?v=VnoLuBLh4U0&list=PLk8d8hOjGHgagImb-hNfyScrq65joERse&index=1"
     }
   },
   "blog": {
