@@ -251,14 +251,18 @@
       "title": "Lecture 2"
     },
     "106": {
-      "description": "Workshop 1.",
+      "description": "Flutter is a great way to build mobile apps for iOS and Android from a single codebase. But did you know that Flutter is expanding beyond mobile to run on desktop and the web, too? In this talk, you'll see two developers live code a real-world app that runs on all of these platforms that highlights.",
       "language": "English",
-      "title": "Workshop 1"
+      "title": "Building Flutter Apps",
+      "speakers": ["tom_mladenov", "vladimir_tasev"],
+      "tags": ["Flutter", "Dart", "Mobile"]
     },
     "107": {
-      "description": "Lecture 3.",
+      "description": "You are a developer with exciting ideas to launch online, and you want to be all set for success from the start?\nThis session will introduce the Google Cloud Platform key components by replaying the past 10 years at SnapEngage on the Cloud Platform, adding components of the platform one by one to grow from an idea, to a feature and finally to a software as a service serving billions of queries every month. We will cover App Engine, Cloud Storage, BigQuery, Compute Engine, Cloud Functions, Firestore, Cloud Pub/Sub and also mention some interesting non-Google developer products which complement the Cloud Platform.",
       "language": "English",
-      "title": "Lecture 3"
+      "title": "Launch and grow your startup on GCP",
+      "speakers": ["jerome_mouton"],
+      "tags": ["App Engine", "Cloud Storage", "BigQuery", "Compute Engine", "Cloud Functions", "Firestore", "Cloud Pub/Sub"]
     },
     "108": {
       "description": "Using Kotlin for JS Client and JVM Server",
@@ -282,9 +286,11 @@
       "title": "Lecture 6"
     },
     "112": {
-      "description": "Workshop 2.",
+      "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.",
       "language": "English",
-      "title": "Workshop 2"
+      "title": "Kotlin/Everywhere - Coroutines in Practice",
+      "speakers": ["viktor_penelski", "marian_zlatev"],
+      "tags": ["Kotlin", "Kotlin Everywhere"]
     },
     "113": {
       "description": "Lecture 7.",
@@ -344,7 +350,7 @@
       "featured": true,
       "name": "Stanimira Vlaeva",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=9431bee4-865b-4984-8e5e-163e683287dd",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
       "shortBio": "Developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup.",
       "socials": [],
       "order": 1,
@@ -362,6 +368,101 @@
       "socials": [],
       "order": 0,
       "title": "Kotlin IDE team lead"
+    },
+    "jerome_mouton": {
+      "bio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution. He is also a lead for GDG Berlin and a Google Developer Expert for the Google Cloud Platform. He has been using the Google App Engine its launch in 2008.",
+      "company": "SnapEngage",
+      "country": "Reno, Nevada",
+      "featured": true,
+      "name": "Jerome Mouton",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jerome Mouton.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FJerome%20Mouton.jpg?alt=media&token=355d4469-231d-49b8-8738-c7c0a2cfc5b3",
+      "shortBio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jeromemouton/",
+        "name": "LinkedIn"
+      },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jlmouton",
+          "name": "Twitter"
+        }],
+      "order": 5,
+      "title": "co-founder and CTO"
+    },
+    "viktor_penelski": {
+      "bio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
+      "company": "Falcon.io",
+      "country": "Sofia, Bulgaria",
+      "featured": true,
+      "name": "Viktor Penelski",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/viktorpenelski.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fviktorpenelski.jpg?alt=media&token=2da217f1-839d-4810-8850-97157c088715",
+      "shortBio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/vpenelski/",
+        "name": "LinkedIn"
+      }],
+      "order": 2,
+      "title": "  Software Engineer "
+    },
+    "marian_zlatev": {
+      "bio": "",
+      "company": "Smule",
+      "country": "Sofia, Bulgaria",
+      "featured": true,
+      "name": "Marian Zlatev",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/marianzlatev.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmarianzlatev.jpg?alt=media&token=d57b8ecc-a0de-4f53-92b5-e55fd4535000",
+      "shortBio": "",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
+        "name": "LinkedIn"
+      }],
+      "order": 3,
+      "title": "Software Engineer "
+    },
+    "tom_mladenov": {
+      "bio": "Transpiling food and water to machine code",
+      "company": "",
+      "country": "Sofia, Bulgaria",
+      "featured": true,
+      "name": "Tom Mladenov",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
+      "shortBio": "Transpiling food and water to machine code",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/tomdavidm/",
+        "name": "LinkedIn"
+      },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/t0mdavid",
+          "name": "Twitter"
+        }],
+      "order": 4,
+      "title": "Engineering Lead"
+    },
+    "vladimir_tasev": {
+      "bio": "Experienced Software Engineer with strong interest in the technology development and high drive for novel projects. Most passionate about the Blockchain technology in its core and keen in its implementation in all operations of the economy.",
+      "company": "",
+      "country": "Sofia, Bulgaria",
+      "featured": true,
+      "name": "Vladimir Tasev",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Vladimir Tasev.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FVladimir%20Tasev.jpg?alt=media&token=dd89193d-1cd2-45ea-9db6-c33ad34ad952",
+      "shortBio": "Experienced Software Engineer with strong interest in the technology development and high drive for novel projects",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/tasevvladimir/",
+        "name": "LinkedIn"
+      }],
+      "order": 6,
+      "title": "Senior Full Stack Developer"
     }
   },
   "team": [{
