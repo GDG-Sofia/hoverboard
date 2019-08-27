@@ -49,6 +49,8 @@ Our goal is to allow event organizers to set up professional conference website 
 1. Build and deploy
    * `npm run build` or `yarn build`
    * `npm run deploy` or `yarn deploy`
+1. Update Firebase Database without reset
+   * `npm run firestore:update` or `yarn run firestore:update`
 
 *NOTE:* By default command using configurations from `/configs/development.json`.
 To serve locally or deploy the production app use `yarn start:prod` and `yarn deploy:prod` respectively.
