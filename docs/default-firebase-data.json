@@ -288,7 +288,7 @@
     "112": {
       "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.",
       "language": "English",
-      "title": "Kotlin Coroutines in Practice",
+      "title": "Kotlin/Everywhere - Coroutines in Practice",
       "speakers": ["viktor_penelski", "marian_zlatev"],
       "tags": ["Kotlin", "Kotlin Everywhere"]
     },
