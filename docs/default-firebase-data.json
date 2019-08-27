@@ -246,9 +246,11 @@
       "title": "Lecture1"
     },
     "105": {
-      "description": "Lecture 2.",
+      "description": "You are a developer with exciting ideas to launch online, and you want to be all set for success from the start?\nThis session will introduce the Google Cloud Platform key components by replaying the past 10 years at SnapEngage on the Cloud Platform, adding components of the platform one by one to grow from an idea, to a feature and finally to a software as a service serving billions of queries every month. We will cover App Engine, Cloud Storage, BigQuery, Compute Engine, Cloud Functions, Firestore, Cloud Pub/Sub and also mention some interesting non-Google developer products which complement the Cloud Platform.",
       "language": "English",
-      "title": "Lecture 2"
+      "title": "Launch and grow your startup on GCP",
+      "speakers": ["jerome_mouton"],
+      "tags": ["App Engine", "Cloud Storage", "BigQuery", "Compute Engine", "Cloud Functions", "Firestore", "Cloud Pub/Sub"]
     },
     "106": {
       "description": "Flutter is a great way to build mobile apps for iOS and Android from a single codebase. But did you know that Flutter is expanding beyond mobile to run on desktop and the web, too? In this talk, you'll see two developers live code a real-world app that runs on all of these platforms that highlights.",
@@ -258,11 +260,9 @@
       "tags": ["Flutter", "Dart", "Mobile"]
     },
     "107": {
-      "description": "You are a developer with exciting ideas to launch online, and you want to be all set for success from the start?\nThis session will introduce the Google Cloud Platform key components by replaying the past 10 years at SnapEngage on the Cloud Platform, adding components of the platform one by one to grow from an idea, to a feature and finally to a software as a service serving billions of queries every month. We will cover App Engine, Cloud Storage, BigQuery, Compute Engine, Cloud Functions, Firestore, Cloud Pub/Sub and also mention some interesting non-Google developer products which complement the Cloud Platform.",
+      "description": "Lecture 4",
       "language": "English",
-      "title": "Launch and grow your startup on GCP",
-      "speakers": ["jerome_mouton"],
-      "tags": ["App Engine", "Cloud Storage", "BigQuery", "Compute Engine", "Cloud Functions", "Firestore", "Cloud Pub/Sub"]
+      "title": "Lecture4"
     },
     "108": {
       "description": "Using Kotlin for JS Client and JVM Server",
@@ -372,7 +372,7 @@
     "jerome_mouton": {
       "bio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution. He is also a lead for GDG Berlin and a Google Developer Expert for the Google Cloud Platform. He has been using the Google App Engine its launch in 2008.",
       "company": "SnapEngage",
-      "country": "Reno, Nevada",
+      "country": "Berlin, Germany",
       "featured": true,
       "name": "Jerome Mouton",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jerome Mouton.jpg",
