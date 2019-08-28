@@ -343,16 +343,28 @@
   },
   "speakers": {
     "stanimira_vlaeva": {
-      "badges": [{"description": "Angular Google Developer Expert", "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-stanimira_vlaeva", "name": "gde"}],
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-stanimira_vlaeva",
+          "name": "gde"
+        }
+      ],
       "bio": "Stanimira is a developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup. For the past three years she has been working on the integration between NativeScript and Angular, NativeScript schematics, the web and mobile code-sharing story, hot module replacement and the webpack performance optimization tricks (hacks).",
       "company": "Progress Software",
-      "country": "Bulgaria",
+      "country": "Sofia, Bulgaria",
       "featured": true,
       "name": "Stanimira Vlaeva",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
       "shortBio": "Developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup.",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/StanimiraVlaeva",
+          "name": "Twitter"
+        }
+      ],
       "order": 1,
       "title": "Developer Advocate"
     },
