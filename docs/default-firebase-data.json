@@ -281,9 +281,11 @@
       "title": "Lecture 5"
     },
     "111": {
-      "description": "Lecture 6.",
+      "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
       "language": "English",
-      "title": "Lecture 6"
+      "title": "Deep dive into zone.js",
+      "speakers": ["ilia_idakiev"],
+      "tags": ["JavaScript", "Angular"]
     },
     "112": {
       "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.",
