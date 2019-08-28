@@ -463,6 +463,30 @@
       }],
       "order": 6,
       "title": "Senior Full Stack Developer"
+    },
+    "ilia_idakiev": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-iliya_idakiev",
+          "name": "gde"
+        }
+      ],
+      "bio": "Ilia Idakiev is a Google Developer Expert (GDE), software developer-entrepreneur, as well as a javascript enthusiast who has many years of experience in web application development. He is a co-organizer of Angular Sofia and SofiaJS / BeerJS, and he is a lecturer at Sofia University of the 'Advanced JavaScript' course at the Faculty of Mathematics and Informatics. In his spare time he likes collecting and playing vinyl on different musical events.",
+      "company": "",
+      "country": "Sofia, Bulgaria",
+      "featured": "true",
+      "name": "Ilia Idakiev",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/IliaIdakiev.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FIliaIdakiev.jpeg?alt=media&token=6919e2c8-807a-4235-afe8-4377ff004e9f",
+      "shortBio": "Google Developer Expert (GDE), software developer-entrepreneur, as well as a JavaScript enthusiast who has many years of experience in web application development.",
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/ilia_idakiev",
+        "name": "Twitter"
+      }],
+      "order": 7,
+      "title": "Software Developer-Entrepreneur"
     }
   },
   "team": [{
