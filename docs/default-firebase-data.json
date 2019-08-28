@@ -97,6 +97,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FTripinfy-logo.png?alt=media&token=bb712645-9ba0-4c4a-9012-7f26e2df8139",
         "name": "Tripinfy",
         "url": "https://www.tripinfy.com"
+      },
+{
+        "order": 5,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FHS%20Logo.png?alt=media&token=c7210fc2-ba4d-4a70-90f4-f6c18e247344",
+        "name": "HyperScience",
+        "url": "https://www.hyperscience.com"
       }
     ],
     "order": 0,
