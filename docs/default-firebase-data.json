@@ -97,28 +97,33 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FTripinfy-logo.png?alt=media&token=bb712645-9ba0-4c4a-9012-7f26e2df8139",
         "name": "Tripinfy",
         "url": "https://www.tripinfy.com"
-      },
-{
-        "order": 5,
-        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FHS%20Logo.png?alt=media&token=c7210fc2-ba4d-4a70-90f4-f6c18e247344",
-        "name": "HyperScience",
-        "url": "https://www.hyperscience.com"
       }
     ],
     "order": 0,
     "title": "Organizers"
   }, {
-      "logos": [
-        {
-          "order": 0,
-          "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fpaysafe.png?alt=media&token=3b59cc22-f2cc-4ff3-8686-dba97da9beed",
-          "name": "Paysafe Group",
-          "url": "https://www.paysafe.com"
-        }
-      ],
-      "order": 1,
-      "title": "Gold Sponsors"
-    }],
+    "logos": [
+      {
+        "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FHS%20Logo.png?alt=media&token=c7210fc2-ba4d-4a70-90f4-f6c18e247344",
+        "name": "HyperScience",
+        "url": "https://www.hyperscience.com"
+      }
+    ],
+    "order": 1,
+    "title": "Platinum Sponsors"
+  }, {
+    "logos": [
+      {
+        "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fpaysafe.png?alt=media&token=3b59cc22-f2cc-4ff3-8686-dba97da9beed",
+        "name": "Paysafe Group",
+        "url": "https://www.paysafe.com"
+      }
+    ],
+    "order": 1,
+    "title": "Gold Sponsors"
+  }],
   "schedule": {
     "2019-10-05": {
       "dateReadable": "October 5",
