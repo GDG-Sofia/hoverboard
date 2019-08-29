@@ -346,6 +346,65 @@
     }
   },
   "speakers": {
+    "alexander_podkhalyuzin": {
+      "bio": "Alexander Podkhalyuzin is Kotlin IDE team lead. He joined Kotlin team just few years ago as Kotlin/Native tooling lead then general Kotlin IDE, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years. so complicated stuff like Kotlin/Native and Kotlin/Multiplatform cannot scary him, especially with math education around mathematical physics and probability theory. Worked for five years teaching Scala in Academic University. Father of three kids and founder of few educational centers for children in St. Petersburg.",
+      "company": "JetBrains",
+      "country": "St. Petersburg, Russia",
+      "featured": true,
+      "name": "Alexander Podkhalyuzin",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/alexander-podkhalyuzin-safela.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Falexander-podkhalyuzin-safela.png?alt=media&token=fb9bf988-a8b5-448b-9207-83c32d328fe6",
+      "shortBio": "Kotlin IDE team lead. He joined Kotlin team few years ago, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years.",
+      "socials": [],
+      "order": 1,
+      "title": "Kotlin IDE team lead"
+    },
+    "jerome_mouton": {
+      "bio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution. He is also a lead for GDG Berlin and a Google Developer Expert for the Google Cloud Platform. He has been using the Google App Engine its launch in 2008.",
+      "company": "SnapEngage",
+      "country": "Berlin, Germany",
+      "featured": true,
+      "name": "Jerome Mouton",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jerome Mouton.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FJerome%20Mouton.jpg?alt=media&token=355d4469-231d-49b8-8738-c7c0a2cfc5b3",
+      "shortBio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jeromemouton/",
+        "name": "LinkedIn"
+      },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jlmouton",
+          "name": "Twitter"
+        }],
+      "order": 2,
+      "title": "co-founder and CTO"
+    },
+    "ilia_idakiev": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-iliya_idakiev",
+          "name": "gde"
+        }
+      ],
+      "bio": "Ilia Idakiev is a Google Developer Expert (GDE), software developer-entrepreneur, as well as a javascript enthusiast who has many years of experience in web application development. He is a co-organizer of Angular Sofia and SofiaJS / BeerJS, and he is a lecturer at Sofia University of the 'Advanced JavaScript' course at the Faculty of Mathematics and Informatics. In his spare time he likes collecting and playing vinyl on different musical events.",
+      "company": "",
+      "country": "Sofia, Bulgaria",
+      "featured": "true",
+      "name": "Ilia Idakiev",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/IliaIdakiev.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FIliaIdakiev.jpeg?alt=media&token=6919e2c8-807a-4235-afe8-4377ff004e9f",
+      "shortBio": "Google Developer Expert (GDE), software developer-entrepreneur, as well as a JavaScript enthusiast who has many years of experience in web application development.",
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/ilia_idakiev",
+        "name": "Twitter"
+      }],
+      "order": 3,
+      "title": "Software Developer-Entrepreneur"
+    },
     "stanimira_vlaeva": {
       "badges": [
         {
@@ -369,43 +428,8 @@
           "name": "Twitter"
         }
       ],
-      "order": 1,
+      "order": 4,
       "title": "Developer Advocate"
-    },
-    "alexander_podkhalyuzin": {
-      "bio": "Alexander Podkhalyuzin is Kotlin IDE team lead. He joined Kotlin team just few years ago as Kotlin/Native tooling lead then general Kotlin IDE, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years. so complicated stuff like Kotlin/Native and Kotlin/Multiplatform cannot scary him, especially with math education around mathematical physics and probability theory. Worked for five years teaching Scala in Academic University. Father of three kids and founder of few educational centers for children in St. Petersburg.",
-      "company": "JetBrains",
-      "country": "St. Petersburg, Russia",
-      "featured": true,
-      "name": "Alexander Podkhalyuzin",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/alexander-podkhalyuzin-safela.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Falexander-podkhalyuzin-safela.png?alt=media&token=fb9bf988-a8b5-448b-9207-83c32d328fe6",
-      "shortBio": "Kotlin IDE team lead. He joined Kotlin team few years ago, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years.",
-      "socials": [],
-      "order": 0,
-      "title": "Kotlin IDE team lead"
-    },
-    "jerome_mouton": {
-      "bio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution. He is also a lead for GDG Berlin and a Google Developer Expert for the Google Cloud Platform. He has been using the Google App Engine its launch in 2008.",
-      "company": "SnapEngage",
-      "country": "Berlin, Germany",
-      "featured": true,
-      "name": "Jerome Mouton",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jerome Mouton.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FJerome%20Mouton.jpg?alt=media&token=355d4469-231d-49b8-8738-c7c0a2cfc5b3",
-      "shortBio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution.",
-      "socials": [{
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/jeromemouton/",
-        "name": "LinkedIn"
-      },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/jlmouton",
-          "name": "Twitter"
-        }],
-      "order": 5,
-      "title": "co-founder and CTO"
     },
     "viktor_penelski": {
       "bio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
@@ -421,7 +445,7 @@
         "link": "https://www.linkedin.com/in/vpenelski/",
         "name": "LinkedIn"
       }],
-      "order": 2,
+      "order": 5,
       "title": "  Software Engineer "
     },
     "marian_zlatev": {
@@ -438,7 +462,7 @@
         "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
         "name": "LinkedIn"
       }],
-      "order": 3,
+      "order": 6,
       "title": "Software Engineer "
     },
     "tom_mladenov": {
@@ -460,7 +484,7 @@
           "link": "https://twitter.com/t0mdavid",
           "name": "Twitter"
         }],
-      "order": 4,
+      "order": 7,
       "title": "Engineering Lead"
     },
     "vladimir_tasev": {
@@ -477,32 +501,8 @@
         "link": "https://www.linkedin.com/in/tasevvladimir/",
         "name": "LinkedIn"
       }],
-      "order": 6,
+      "order": 8,
       "title": "Senior Full Stack Developer"
-    },
-    "ilia_idakiev": {
-      "badges": [
-        {
-          "description": "Angular Google Developer Expert",
-          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-iliya_idakiev",
-          "name": "gde"
-        }
-      ],
-      "bio": "Ilia Idakiev is a Google Developer Expert (GDE), software developer-entrepreneur, as well as a javascript enthusiast who has many years of experience in web application development. He is a co-organizer of Angular Sofia and SofiaJS / BeerJS, and he is a lecturer at Sofia University of the 'Advanced JavaScript' course at the Faculty of Mathematics and Informatics. In his spare time he likes collecting and playing vinyl on different musical events.",
-      "company": "",
-      "country": "Sofia, Bulgaria",
-      "featured": "true",
-      "name": "Ilia Idakiev",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/IliaIdakiev.jpeg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FIliaIdakiev.jpeg?alt=media&token=6919e2c8-807a-4235-afe8-4377ff004e9f",
-      "shortBio": "Google Developer Expert (GDE), software developer-entrepreneur, as well as a JavaScript enthusiast who has many years of experience in web application development.",
-      "socials": [{
-        "icon": "twitter",
-        "link": "https://twitter.com/ilia_idakiev",
-        "name": "Twitter"
-      }],
-      "order": 7,
-      "title": "Software Developer-Entrepreneur"
     }
   },
   "team": [{
