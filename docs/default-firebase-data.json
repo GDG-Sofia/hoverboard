@@ -123,6 +123,23 @@
     ],
     "order": 1,
     "title": "Gold Sponsors"
+  }, {
+    "logos": [
+      {
+        "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fdev_bg.png?alt=media&token=9a334f77-9dc3-40a8-8bdb-10bbbd296f01",
+        "name": "Dev.bg",
+        "url": "https://www.dev.bg"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fhire_heroes.png?alt=media&token=495211da-f013-4840-a6a9-cf7fac1df9b0",
+        "name": "Hire Heroes",
+        "url": "https://hireheroes.bg/"
+      }
+    ],
+    "order": 1,
+    "title": "Community Partners"
   }],
   "schedule": {
     "2019-10-05": {
