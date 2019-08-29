@@ -292,9 +292,11 @@
       "title": "Lecture 5"
     },
     "111": {
-      "description": "Lecture 6.",
+      "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
       "language": "English",
-      "title": "Lecture 6"
+      "title": "Deep dive into zone.js",
+      "speakers": ["ilia_idakiev"],
+      "tags": ["JavaScript", "Angular"]
     },
     "112": {
       "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.",
@@ -328,9 +330,11 @@
       "title": "Lecture 10"
     },
     "118": {
-      "description": "Workshop 3.",
+      "description": "NativeScript opens up a whole new world for the Angular developers - a world where you can use your web skills to build mobile applications that run both on Android and iOS. But we can go even further - what if I told you can extend your existing web application with a shiny mobile app? It is true - Angular's platform agnostic nature allows you to reuse your business logic across multiple platforms. Come and see it for yourself! Together we'll transform an Angular website to a multi-platform application running on web, Android and iOS.",
       "language": "English",
-      "title": "Workshop 3"
+      "title": "From Web to Mobile with NativeScript and Angular",
+      "speakers": ["stanimira_vlaeva"],
+      "tags": ["JavaScript", "Angular", "NativeScript"]
     },
     "119": {
       "description": "Lecture 11.",
@@ -353,20 +357,6 @@
     }
   },
   "speakers": {
-    "stanimira_vlaeva": {
-      "badges": [{"description": "Angular Google Developer Expert", "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-stanimira_vlaeva", "name": "gde"}],
-      "bio": "Stanimira is a developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup. For the past three years she has been working on the integration between NativeScript and Angular, NativeScript schematics, the web and mobile code-sharing story, hot module replacement and the webpack performance optimization tricks (hacks).",
-      "company": "Progress Software",
-      "country": "Bulgaria",
-      "featured": true,
-      "name": "Stanimira Vlaeva",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
-      "shortBio": "Developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup.",
-      "socials": [],
-      "order": 1,
-      "title": "Developer Advocate"
-    },
     "alexander_podkhalyuzin": {
       "bio": "Alexander Podkhalyuzin is Kotlin IDE team lead. He joined Kotlin team just few years ago as Kotlin/Native tooling lead then general Kotlin IDE, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years. so complicated stuff like Kotlin/Native and Kotlin/Multiplatform cannot scary him, especially with math education around mathematical physics and probability theory. Worked for five years teaching Scala in Academic University. Father of three kids and founder of few educational centers for children in St. Petersburg.",
       "company": "JetBrains",
@@ -377,7 +367,7 @@
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Falexander-podkhalyuzin-safela.png?alt=media&token=fb9bf988-a8b5-448b-9207-83c32d328fe6",
       "shortBio": "Kotlin IDE team lead. He joined Kotlin team few years ago, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years.",
       "socials": [],
-      "order": 0,
+      "order": 1,
       "title": "Kotlin IDE team lead"
     },
     "jerome_mouton": {
@@ -399,14 +389,64 @@
           "link": "https://twitter.com/jlmouton",
           "name": "Twitter"
         }],
-      "order": 5,
+      "order": 2,
       "title": "co-founder and CTO"
+    },
+    "ilia_idakiev": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-iliya_idakiev",
+          "name": "gde"
+        }
+      ],
+      "bio": "Ilia Idakiev is a Google Developer Expert (GDE), software developer-entrepreneur, as well as a javascript enthusiast who has many years of experience in web application development. He is a co-organizer of Angular Sofia and SofiaJS / BeerJS, and he is a lecturer at Sofia University of the 'Advanced JavaScript' course at the Faculty of Mathematics and Informatics. In his spare time he likes collecting and playing vinyl on different musical events.",
+      "company": "",
+      "country": "Sofia, Bulgaria",
+      "featured": "true",
+      "name": "Ilia Idakiev",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/IliaIdakiev.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FIliaIdakiev.jpeg?alt=media&token=6919e2c8-807a-4235-afe8-4377ff004e9f",
+      "shortBio": "Google Developer Expert (GDE), software developer-entrepreneur, as well as a JavaScript enthusiast who has many years of experience in web application development.",
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/ilia_idakiev",
+        "name": "Twitter"
+      }],
+      "order": 3,
+      "title": "Software Developer-Entrepreneur"
+    },
+    "stanimira_vlaeva": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-stanimira_vlaeva",
+          "name": "gde"
+        }
+      ],
+      "bio": "Stanimira is a developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup. For the past three years she has been working on the integration between NativeScript and Angular, NativeScript schematics, the web and mobile code-sharing story, hot module replacement and the webpack performance optimization tricks (hacks).",
+      "company": "Progress Software",
+      "country": "Sofia, Bulgaria",
+      "featured": false,
+      "name": "Stanimira Vlaeva",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
+      "shortBio": "Developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/StanimiraVlaeva",
+          "name": "Twitter"
+        }
+      ],
+      "order": 4,
+      "title": "Developer Advocate"
     },
     "viktor_penelski": {
       "bio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
       "company": "Falcon.io",
       "country": "Sofia, Bulgaria",
-      "featured": true,
+      "featured": false,
       "name": "Viktor Penelski",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/viktorpenelski.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fviktorpenelski.jpg?alt=media&token=2da217f1-839d-4810-8850-97157c088715",
@@ -416,14 +456,14 @@
         "link": "https://www.linkedin.com/in/vpenelski/",
         "name": "LinkedIn"
       }],
-      "order": 2,
+      "order": 5,
       "title": "  Software Engineer "
     },
     "marian_zlatev": {
       "bio": "",
       "company": "Smule",
       "country": "Sofia, Bulgaria",
-      "featured": true,
+      "featured": false,
       "name": "Marian Zlatev",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/marianzlatev.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmarianzlatev.jpg?alt=media&token=d57b8ecc-a0de-4f53-92b5-e55fd4535000",
@@ -433,14 +473,14 @@
         "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
         "name": "LinkedIn"
       }],
-      "order": 3,
+      "order": 6,
       "title": "Software Engineer "
     },
     "tom_mladenov": {
       "bio": "Transpiling food and water to machine code",
       "company": "",
       "country": "Sofia, Bulgaria",
-      "featured": true,
+      "featured": false,
       "name": "Tom Mladenov",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
@@ -455,14 +495,14 @@
           "link": "https://twitter.com/t0mdavid",
           "name": "Twitter"
         }],
-      "order": 4,
+      "order": 7,
       "title": "Engineering Lead"
     },
     "vladimir_tasev": {
       "bio": "Experienced Software Engineer with strong interest in the technology development and high drive for novel projects. Most passionate about the Blockchain technology in its core and keen in its implementation in all operations of the economy.",
       "company": "",
       "country": "Sofia, Bulgaria",
-      "featured": true,
+      "featured": false,
       "name": "Vladimir Tasev",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Vladimir Tasev.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FVladimir%20Tasev.jpg?alt=media&token=dd89193d-1cd2-45ea-9db6-c33ad34ad952",
@@ -472,7 +512,7 @@
         "link": "https://www.linkedin.com/in/tasevvladimir/",
         "name": "LinkedIn"
       }],
-      "order": 6,
+      "order": 8,
       "title": "Senior Full Stack Developer"
     }
   },
