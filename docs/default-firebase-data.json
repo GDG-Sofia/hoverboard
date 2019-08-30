@@ -269,9 +269,11 @@
       "title": "Keynote"
     },
     "104": {
-      "description": "Lecture 1",
+      "title": "From Web to Mobile with NativeScript and Angular",
       "language": "English",
-      "title": "Lecture1"
+      "description": "The Angular and NativeScript teams teamed up to create a new way to share your code between web and mobile apps with Angular and NativeScript. It allows you to easily share the business logic of your app, while providing you an intuitive way to separate the code that is different between the platforms. The ability to share code between your Angular web app and Native mobile apps has never been easier (or more important). Who has the time to invest resources into separate apps for web, native iOS, and native Android? In this talk you will learn how to take an existing Angular Web project and add NativeScript to it, by converting it to a code-sharing project. Then we will go through a few steps of converting individual components and modules into a code-sharing structure.",
+      "speakers": ["stanimira_vlaeva"],
+      "tags": ["Angular", "NativeScript", "Mobile"]
     },
     "105": {
       "description": "You are a developer with exciting ideas to launch online, and you want to be all set for success from the start?\nThis session will introduce the Google Cloud Platform key components by replaying the past 10 years at SnapEngage on the Cloud Platform, adding components of the platform one by one to grow from an idea, to a feature and finally to a software as a service serving billions of queries every month. We will cover App Engine, Cloud Storage, BigQuery, Compute Engine, Cloud Functions, Firestore, Cloud Pub/Sub and also mention some interesting non-Google developer products which complement the Cloud Platform.",
