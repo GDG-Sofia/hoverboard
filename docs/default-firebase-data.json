@@ -347,11 +347,9 @@
       "title": "Lecture 10"
     },
     "118": {
-      "description": "NativeScript opens up a whole new world for the Angular developers - a world where you can use your web skills to build mobile applications that run both on Android and iOS. But we can go even further - what if I told you can extend your existing web application with a shiny mobile app? It is true - Angular's platform agnostic nature allows you to reuse your business logic across multiple platforms. Come and see it for yourself! Together we'll transform an Angular website to a multi-platform application running on web, Android and iOS.",
+      "description": "Workshop 3.",
       "language": "English",
-      "title": "From Web to Mobile with NativeScript and Angular",
-      "speakers": ["stanimira_vlaeva"],
-      "tags": ["JavaScript", "Angular", "NativeScript"]
+      "title": "Workshop 3"
     },
     "119": {
       "description": "Lecture 11.",
