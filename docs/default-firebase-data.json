@@ -290,9 +290,11 @@
       "tags": ["Flutter", "Dart", "Mobile"]
     },
     "107": {
-      "description": "Lecture 4",
+      "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up my backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
       "language": "English",
-      "title": "Lecture4"
+      "speakers": ["jeroen_meijer"],
+      "title": "Flutter After Hello World",
+      "tags": ["Flutter", "Dart", "Mobile"]
     },
     "108": {
       "description": "Using Kotlin for JS Client and JVM Server",
@@ -388,6 +390,13 @@
       "title": "Kotlin IDE team lead"
     },
     "jerome_mouton": {
+      "badges": [
+        {
+          "description": "GCP Google Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/profile/profile-jerome_mouton",
+          "name": "gde"
+        }
+      ],
       "bio": "Jerome is the co-founder and CTO at SnapEngage, a customer engagement and live chat solution. He is also a lead for GDG Berlin and a Google Developer Expert for the Google Cloud Platform. He has been using the Google App Engine its launch in 2008.",
       "company": "SnapEngage",
       "country": "Berlin, Germany",
@@ -401,7 +410,7 @@
         "link": "https://www.linkedin.com/in/jeromemouton/",
         "name": "LinkedIn"
       },
-        {
+      {
           "icon": "twitter",
           "link": "https://twitter.com/jlmouton",
           "name": "Twitter"
@@ -444,7 +453,7 @@
       "bio": "Stanimira is a developer advocate on the NativeScript team at Progress, Google Developer Expert for Angular and Web Technologies, and co-organizer of the Angular Sofia meetup. For the past three years she has been working on the integration between NativeScript and Angular, NativeScript schematics, the web and mobile code-sharing story, hot module replacement and the webpack performance optimization tricks (hacks).",
       "company": "Progress Software",
       "country": "Sofia, Bulgaria",
-      "featured": false,
+      "featured": true,
       "name": "Stanimira Vlaeva",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
@@ -458,6 +467,28 @@
       ],
       "order": 4,
       "title": "Developer Advocate"
+    },
+    "jeroen_meijer": {
+      "bio": "Jay is a Dutch freelance full-stack app developer, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping. With two years of experience writing Flutter apps, he has contributed to multiple open source projects and given talks about various facets of the Flutter ecosystem. In his free time, Jay likes to experiment with new and exciting technologies such as TypeScript apps and Flutter for web.",
+      "company": "Freelance",
+      "country": "Rotterdam, The Netherlands",
+      "featured": true,
+      "name": "Jeroen Meijer (Jay)",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jeroen.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FJeroen.jpeg?alt=media&token=3fe212ad-a62c-424d-8182-d36c15bc19de",
+      "shortBio": "Jay is a freelance full-stack app developer, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jfkdev",
+          "name": "Twitter"
+        }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jeroen-meijer-ict/",
+        "name": "LinkedIn"
+      }],
+      "order": 5,
+      "title": "Full-stack app developer"
     },
     "viktor_penelski": {
       "bio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
@@ -473,7 +504,7 @@
         "link": "https://www.linkedin.com/in/vpenelski/",
         "name": "LinkedIn"
       }],
-      "order": 5,
+      "order": 6,
       "title": "  Software Engineer "
     },
     "marian_zlatev": {
@@ -490,7 +521,7 @@
         "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
         "name": "LinkedIn"
       }],
-      "order": 6,
+      "order": 7,
       "title": "Software Engineer "
     },
     "tom_mladenov": {
@@ -512,7 +543,7 @@
           "link": "https://twitter.com/t0mdavid",
           "name": "Twitter"
         }],
-      "order": 7,
+      "order": 8,
       "title": "Engineering Lead"
     },
     "vladimir_tasev": {
@@ -529,21 +560,31 @@
         "link": "https://www.linkedin.com/in/tasevvladimir/",
         "name": "LinkedIn"
       }],
-      "order": 8,
+      "order": 9,
       "title": "Senior Full Stack Developer"
     }
   },
   "team": [{
     "members": [{
-        "name": "Momchil Syarov",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Momchil Syarov.jpeg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FMomchil%20Syarov.jpeg?alt=media&token=1f81fee3-fbc0-44f1-a424-cd5f9bc12dfc",
+        "name": "Sofia Lyateva",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FSofia%20Lyateva.jpg?alt=media&token=701bcbce-e6c2-49c2-8e52-37a4a35ef2f2",
         "socials": [{
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/msyarov/",
+          "link": "https://www.linkedin.com/in/sofialyateva/",
           "name": "LinkedIn"
         }],
-        "order": 4
+        "order": 1
+      }, {
+        "name": "Boris Strandjev",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/BorisStrandjev.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FBorisStrandjev.jpg?alt=media&token=dc53cc8e-294e-47ed-9f27-855779a9c45c",
+        "socials": [{
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/boris-strandjev-9a714325/ ",
+          "name": "LinkedIn"
+        }],
+        "order": 2
       }, {
         "name": "Nikolay Krastev",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Nikolay Krastev.jpg",
@@ -559,15 +600,15 @@
         }],
         "order": 3
       }, {
-        "name": "Sofia Lyateva",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FSofia%20Lyateva.jpg?alt=media&token=701bcbce-e6c2-49c2-8e52-37a4a35ef2f2",
+        "name": "Momchil Syarov",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Momchil Syarov.jpeg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FMomchil%20Syarov.jpeg?alt=media&token=1f81fee3-fbc0-44f1-a424-cd5f9bc12dfc",
         "socials": [{
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/sofialyateva/",
+          "link": "https://www.linkedin.com/in/msyarov/",
           "name": "LinkedIn"
         }],
-        "order": 1
+        "order": 4
       }, {
         "name": "Tom Mladenov",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
@@ -577,7 +618,7 @@
           "link": "https://www.linkedin.com/in/tomdavidm/",
           "name": "LinkedIn"
         }],
-        "order": 6
+        "order": 5
       }, {
         "name": "Marchela Mincheva",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Marchela Mincheva.jpg",
@@ -587,17 +628,17 @@
           "link": "https://www.linkedin.com/in/marchela-mincheva/",
           "name": "LinkedIn"
         }],
-        "order": 7
+        "order": 6
       }, {
-        "name": "Boris Strandjev",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/BorisStrandjev.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FBorisStrandjev.jpg?alt=media&token=dc53cc8e-294e-47ed-9f27-855779a9c45c",
+        "name": "Radostin Cholakov",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Radi.png",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FRadi.png?alt=media&token=5e4d4985-7022-4a4c-8beb-a360710a2494",
         "socials": [{
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/boris-strandjev-9a714325/ ",
+          "link": "https://www.linkedin.com/in/radostin-cholakov-bb4422146/",
           "name": "LinkedIn"
         }],
-        "order": 2
+        "order": 7
       }
     ],
     "title": "Core Team"
