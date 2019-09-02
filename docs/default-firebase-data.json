@@ -491,7 +491,7 @@
       "title": "Full-stack app developer"
     },
     "viktor_penelski": {
-      "bio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
+      "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
       "company": "Falcon.io",
       "country": "Sofia, Bulgaria",
       "featured": false,
@@ -525,14 +525,14 @@
       "title": "Software Engineer "
     },
     "tom_mladenov": {
-      "bio": "Transpiling food and water to machine code",
+      "bio": "As an engineering lead for Paysafe's web projects, he spends most of his 9-5 time working with Angular.\n\nApart from that he reads, experiments, teaches and spreads the word for other exciting technologies such as Flutter, Kotlin, Go, Firebase and Google Cloud Platform.\n\nOutside the office, he prays for deep snow, a waxed snowboard and a working lift.",
       "company": "",
       "country": "Sofia, Bulgaria",
       "featured": false,
       "name": "Tom Mladenov",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
-      "shortBio": "Transpiling food and water to machine code",
+      "shortBio": "Engineering lead for Angular and Web technologies @ Paysafe. Devfest co-organizer who believes in the great technology.",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tomdavidm/",
