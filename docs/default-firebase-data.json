@@ -341,7 +341,7 @@
       "title": "Coffee break"
     },
     "116": {
-      "description": "The promise is lucrative. Write code once, run on many platforms. Save costs in development and maintenance. Use existing skills in existing teams. But what is the reality of running a business and using tools like Flutter, Kotlin Multi-Platform vs. native iOS and Android development?\n\nIn this talk Jasper an Juhani will look at these tools from technology and business-suitability point of view and look into reality of suitability of these tools in real world projects and product and what kind of questions must be answered before jumping into one toolchain or another.",
+      "description": "The promise is lucrative. Write code once, run on many platforms. Save costs in development and maintenance. Use existing skills in existing teams. But what is the reality of running a business and using tools like Flutter, Kotlin Multi-Platform vs. native iOS and Android development?\n\nIn this talk Jasper and Juhani will look at these tools from technology and business-suitability point of view and look into the reality of suitability of these tools in real-world projects and product and what kind of questions must be answered before jumping into one toolchain or another.",
       "language": "English",
       "title": "Cross-platform tools in the real world",
       "speakers": ["juhani", "jasper"],
