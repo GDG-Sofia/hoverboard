@@ -341,9 +341,11 @@
       "title": "Coffee break"
     },
     "116": {
-      "description": "Lecture 9.",
+      "description": "The promise is lucrative. Write code once, run on many platforms. Save costs in development and maintenance. Use existing skills in existing teams. But what is the reality of running a business and using tools like Flutter, Kotlin Multi-Platform vs. native iOS and Android development?\n\nIn this talk Jasper and Juhani will look at these tools from technology and business-suitability point of view and look into the reality of suitability of these tools in real-world projects and product and what kind of questions must be answered before jumping into one toolchain or another.",
       "language": "English",
-      "title": "Lecture 9"
+      "title": "Cross-platform tools in the real world",
+      "speakers": ["juhani", "jasper"],
+      "tags": ["Kotlin", "Flutter", "Android", "iOS", "Kotlin Multi-Platform"]
     },
     "117": {
       "description": "Lecture 10.",
@@ -490,6 +492,49 @@
       "order": 5,
       "title": "Full-stack app developer"
     },
+    "juhani": {
+      "badges": [
+        {
+          "description": "Angular Google Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-juhani_lehtim_C3_A4ki",
+          "name": "gde"
+        }
+      ],
+      "bio": "I'm an Android developer, design fanboy and Android GDE. I blog, talk and rave about needs for engineers to appreciate design and preach about way for multi-discipline teams to work together to create great real-world products.",
+      "company": "Snapp Mobile",
+      "country": "Munich, Germany",
+      "featured": true,
+      "name": "Juhani Lehtimäki",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/juhani.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fjuhani.jpg?alt=media&token=e35bb1d8-2275-4894-8cf0-758653e105d0",
+      "shortBio": "Android developer, design fanboy and Android GDE. Blogger and speaker with special interest of teaching teams how to work effectively towards solving real-world problems.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/lehtimaeki",
+          "name": "Twitter"
+        }],
+      "order": 6,
+      "title": "Android Lead, Founder, Partner"
+    },
+    "jasper": {
+      "bio": "Long term software developer turned CEO. I typically find myself bridging the worlds of technology management and technology delivery which means looking for ways to improve software and in particular mobile apps are delivered.",
+      "company": "Snapp Mobile",
+      "country": "Munich, Germany",
+      "featured": false,
+      "name": "Jasper Morgan",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/jasper_no_beer.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fjasper_no_beer.jpg?alt=media&token=6b664327-b56d-468e-97e0-0944233c5d64",
+      "shortBio": "Long term software developer turned CEO. Always looking for ways to improve the way software and mobile apps in particular are delivered.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jasperamorgan",
+          "name": "Twitter"
+        }],
+      "order": 7,
+      "title": "CEO"
+    },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
       "company": "Falcon.io",
@@ -504,7 +549,7 @@
         "link": "https://www.linkedin.com/in/vpenelski/",
         "name": "LinkedIn"
       }],
-      "order": 6,
+      "order": 20,
       "title": "  Software Engineer "
     },
     "marian_zlatev": {
@@ -521,7 +566,7 @@
         "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
         "name": "LinkedIn"
       }],
-      "order": 7,
+      "order": 21,
       "title": "Software Engineer "
     },
     "tom_mladenov": {
@@ -543,7 +588,7 @@
           "link": "https://twitter.com/t0mdavid",
           "name": "Twitter"
         }],
-      "order": 8,
+      "order": 22,
       "title": "Engineering Lead"
     },
     "vladimir_tasev": {
@@ -560,7 +605,7 @@
         "link": "https://www.linkedin.com/in/tasevvladimir/",
         "name": "LinkedIn"
       }],
-      "order": 9,
+      "order": 23,
       "title": "Senior Full Stack Developer"
     }
   },
