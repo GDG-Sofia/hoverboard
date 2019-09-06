@@ -335,7 +335,8 @@
       "language": "English",
       "title": "Kotlin/Everywhere - Coroutines in Practice",
       "speakers": ["viktor_penelski", "marian_zlatev"],
-      "tags": ["Kotlin", "Kotlin Everywhere"]
+      "tags": ["Kotlin", "Kotlin Everywhere"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "113": {
       "description": "Lecture 7.",
