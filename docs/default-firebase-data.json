@@ -344,9 +344,11 @@
       "title": "Lecture 7"
     },
     "114": {
-      "description": "Lecture 8.",
+      "description": "Challenges in incorporating ML models in corporate business environment",
       "language": "English",
-      "title": "Lecture 8"
+      "title": "Challenges in incorporating ML models in corporate business environment",
+      "speakers": ["momchil"],
+      "tags": ["Machine Learning"]
     },
     "115": {
       "description": "Coffee break.",
@@ -546,6 +548,19 @@
         }],
       "order": 7,
       "title": "CEO"
+    },
+    "momchil": {
+      "bio": "Momchil is a Software Engineer, currently working as a Director of Engineering in HyperScience. He obtained his Bachelor degree from Sofia University and he did his Masters at Max-Plank Institute for Informatics, Saarbrucken. Before joining HyperScience, Momchil has worked at Google, Bloomberg, Barclays, Soundcloud, Skyscanner,\nMomchil is passionate about tackling not only engineering but also business and organizational problems and his mission at HyperScience is to help the company to grow further and establish itself as a leader in document data extraction.",
+      "company": "HyperScience",
+      "country": "Sofia, Bulgaria",
+      "featured": false,
+      "name": "Momchil Rusinov",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/momchil.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmomchil.jpg?alt=media&token=9c1c9ed1-52cf-4830-9ecf-1183d45f0216",
+      "shortBio": "Momchil is a Software Engineer, currently working as a Director of Engineering in HyperScience",
+      "socials": [],
+      "order": 8,
+      "title": "Director of Engineering"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
