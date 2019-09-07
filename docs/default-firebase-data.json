@@ -312,7 +312,8 @@
       "language": "English",
       "title": "Using Kotlin for JS Client and JVM Server",
       "speakers": ["alexander_podkhalyuzin"],
-      "tags": ["Kotlin", "Kotlin Everywhere", "Javascript"]
+      "tags": ["Kotlin", "Kotlin Everywhere", "Javascript"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "109": {
       "description": "Lunch.",
@@ -335,7 +336,8 @@
       "language": "English",
       "title": "Kotlin/Everywhere - Coroutines in Practice",
       "speakers": ["viktor_penelski", "marian_zlatev"],
-      "tags": ["Kotlin", "Kotlin Everywhere"]
+      "tags": ["Kotlin", "Kotlin Everywhere"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "113": {
       "description": "Lecture 7.",
@@ -356,7 +358,8 @@
       "language": "English",
       "title": "Cross-platform tools in the real world",
       "speakers": ["juhani", "jasper"],
-      "tags": ["Kotlin", "Flutter", "Android", "iOS", "Kotlin Multi-Platform"]
+      "tags": ["Kotlin", "Flutter", "Android", "iOS", "Kotlin Multi-Platform"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "117": {
       "description": "Lecture 10.",

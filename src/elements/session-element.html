@@ -60,6 +60,11 @@
         padding-bottom: 40px;
       }
 
+      .session-image {
+        flex-grow: 1;
+        min-height: 70px;
+      }
+
       .bookmark-session {
         color: var(--secondary-text-color);
       }
@@ -156,6 +161,12 @@
       </div>
 
       <div class="session-content" flex layout horizontal justified>
+        <plastic-image
+          class="session-image"
+          srcset="[[session.imageUrl]]"
+          sizing="contain"
+          lazy-load preload fade
+        ></plastic-image>
         <div class="session-meta">
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
