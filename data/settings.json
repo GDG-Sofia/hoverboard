@@ -38,6 +38,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
+    },
+    {
+      "route": "tickets",
+      "permalink": "/tickets/",
+      "label": "Tickets"
     }
   ],
   "heroSettings": {

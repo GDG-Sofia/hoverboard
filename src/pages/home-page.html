@@ -198,6 +198,7 @@
         });
       }
       _scrollToTickets() {
+        (() => window.fbq('trackCustom', 'ScrollToTicket'))();
         // eslint-disable-next-line no-undef
         const toolbarHeight = HOVERBOARD.Elements.HeaderToolbar.getBoundingClientRect().height - 1;
         // eslint-disable-next-line no-undef
