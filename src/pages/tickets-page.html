@@ -1,0 +1,46 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="../elements/shared-styles.html">
+<link rel="import" href="../elements/tickets-block.html">
+
+<dom-module id="tickets-page">
+  <template>
+    <style include="shared-styles flex flex-alignment">
+      :host {
+        display: block;
+      }
+    </style>
+
+    <hero-block active="[[active]]">
+      <tickets-block></tickets-block>
+    </hero-block>
+
+    <footer-block></footer-block>
+  </template>
+
+  <script>
+
+    class TicketsPage extends ReduxMixin(Polymer.Element) {
+      static get is() {return 'tickets-page';}
+
+      static get properties() {
+        return {
+          active: Boolean
+        };
+      }
+
+      connectedCallback() {
+        super.connectedCallback();
+      }
+    }
+
+    window.customElements.define(TicketsPage.is, TicketsPage);
+
+  </script>
+</dom-module>
+

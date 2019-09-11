@@ -320,9 +320,11 @@
       "title": "Lunch"
     },
     "110": {
-      "description": "Lecture 5.",
+      "description": "",
       "language": "English",
-      "title": "Lecture 5"
+      "title": "The complexity of integrating more than 150 devices into Google Home system",
+      "speakers": ["urban"],
+      "tags": ["Google Home"]
     },
     "111": {
       "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
@@ -487,6 +489,13 @@
       "title": "Developer Advocate"
     },
     "jeroen_meijer": {
+      "badges": [
+        {
+          "description": "Flutter Developer Expert",
+          "link": "https://developers.google.com/community/experts/directory/",
+          "name": "gde"
+        }
+      ],
       "bio": "Jay is a Dutch freelance full-stack app developer, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping. With two years of experience writing Flutter apps, he has contributed to multiple open source projects and given talks about various facets of the Flutter ecosystem. In his free time, Jay likes to experiment with new and exciting technologies such as TypeScript apps and Flutter for web.",
       "company": "Freelance",
       "country": "Rotterdam, The Netherlands",
@@ -563,6 +572,23 @@
       "socials": [],
       "order": 8,
       "title": "Director of Engineering"
+    },
+    "urban": {
+      "bio": "Experienced mind with a demonstrated history of working in software development, problem-solving and huge interest in product development. Having some experience of working in development agencies I have found out I really do care for what we are actually building, which problem we are solving and how customers see the product.",
+      "company": "1Home",
+      "country": "Ljubliana, Slovenia",
+      "featured": false,
+      "name": "Urban Marovt",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/urban.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Furban.jpeg?alt=media&token=db5824fa-f1fc-4c01-aa30-4ca5a886fd45",
+      "shortBio": "Experienced mind with a demonstrated history of working in software development, problem-solving and huge interest in product development.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/umarovt/",
+        "name": "LinkedIn"
+      }],
+      "order": 9,
+      "title": "Head of Product"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
