@@ -119,6 +119,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fpaysafe.png?alt=media&token=3b59cc22-f2cc-4ff3-8686-dba97da9beed",
         "name": "Paysafe Group",
         "url": "https://www.paysafe.com"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Focado_logo.png?alt=media&token=6bfde6a9-1dd0-4a52-81ae-61536a3518f1",
+        "name": "Ocado Technology",
+        "url": "https://www.ocadotechnology.com/"
       }
     ],
     "order": 1,
