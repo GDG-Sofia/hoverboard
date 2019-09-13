@@ -379,14 +379,18 @@
       "title": "Lecture 10"
     },
     "118": {
-      "description": "Workshop 3.",
+      "description": "Adding PWA capabilities to an Angular app is easy with adding @angular/pwa via ng cli. However, you need to do more on your app to create best experiences for your users on multiple platforms. This session will cover what you need to do to optimise your PWA for the production with the guidelines of best practices and platform optimisations.\n\n\n\nThese optimisations include iOS compatibility, web app manifest and ngsw configuration along with firebase server configuration.\n\n\n\nHeadlines of the workshop:\n\n\n\n* State of the PWA development\n\n* Adding the PWA schematic to an angular app\n\n* Changing Web App Manifest file\n\n* Displaying Add to Home Screen guidelines\n\n* Adding meta tags for platform optimisation\n\n* Configuring Angular service worker\n\n* Extending Angular service worker\n\n* Updating your PWA\n\n* Hosting your PWA on Firebase\n\n* Configuring the Firebase hosting for your PWA\n\n* Deploying your PWA to Firebase\n\n* Auditing your PWA with Lighthouse\n\n\n\nSource of the workshop can be found here: https://github.com/onderceylan/pwa-workshop-angular-firebase",
       "language": "English",
-      "title": "Workshop 3"
+      "title": "Build a production ready PWA with Angular and Firebase",
+      "speakers": ["onder"],
+      "tags": ["PWA", "Mobile", "Firebase", "Angular", "Ionic", "Lighthouse"]
     },
     "119": {
-      "description": "Lecture 11.",
+      "description": "This talk will cover how to build, optimise and host your PWA to provide native-like app experiences. It provides guidelines for best practices of building a PWA and platform optimisations targeting multiple platforms. After building your PWA with guidelines of this talk, your app will score 100 on Lighthouse PWA audit!",
       "language": "English",
-      "title": "Lecture 11"
+      "title": "Mobile platform guidelines with PWA: yes, no problem!",
+      "speakers": ["onder"],
+      "tags": ["PWA", "Mobile", "Firebase", "Angular", "Lighthouse"]
     },
     "120": {
       "description": "Lecture 12.",
@@ -625,6 +629,34 @@
       }],
       "order": 10,
       "title": "Head of Mobile"
+    },
+    "onder": {
+      "badges": [
+        {
+          "description": "Web Technologies Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-_C3_B6nder_ceylan",
+          "name": "gde"
+        }
+      ],
+      "bio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and speaker. He's also interested in photography, capturing night photos specifically.",
+      "company": "LINKIT",
+      "country": "Amsterdam, Netherlands",
+      "featured": false,
+      "name": "Önder Ceylan",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/onder.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fonder.jpg?alt=media&token=e582a0e8-e5e4-42d6-ab96-68b47dab1af7",
+      "shortBio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/onderceylan/",
+        "name": "LinkedIn"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/onderceylan",
+        "name": "Twitter"
+      }],
+      "order": 11,
+      "title": "JavaScript Tech Lead"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
