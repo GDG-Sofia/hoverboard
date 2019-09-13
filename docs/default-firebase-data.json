@@ -348,9 +348,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "113": {
-      "description": "Lecture 7.",
+      "description": "Everybody who has ever worked in a team where unit tests are considered seriously knows this feeling. You do some non-trivial code changes and your tests - which were supposed to make refactoring easier and safer - don't even compile. Despite the fact tests became much more common in the Android world than they used to be and developers have a more mature tooling available at hand, we still often fall into a trap of making our specs too coupled to the actual implementation.\n\nDuring my presentation I will show you a few simple tricks that can be commonly applied so that your tests will become more of a help, and less of a burden.",
       "language": "English",
-      "title": "Lecture 7"
+      "title": "Mocks vs Fakes vs Stubs - how to apply different techniques to write better tests",
+      "speakers": ["mateusz"],
+      "tags": ["Android", "Mobile"]
     },
     "114": {
       "description": "Challenges in incorporating ML models in corporate business environment",
@@ -595,6 +597,34 @@
       }],
       "order": 9,
       "title": "Head of Product"
+    },
+    "mateusz": {
+      "badges": [
+        {
+          "description": "Android Developer Expert",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-mateusz_herych",
+          "name": "gde"
+        }
+      ],
+      "bio": "I'm working as an Android Technical Team Lead at in IG in Krakow, where he lives. Member of the Google Developer Expert program on Android, also co-organizes GDG Krakow's community meetups. An avid fan of railway transportation and football, father of twins.",
+      "company": "IG",
+      "country": "Krakow, Poland",
+      "featured": false,
+      "name": "Mateusz Herych",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/mateusz_herych_1.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmateusz_herych_1.jpg?alt=media&token=a2e0e1a3-43ae-4e6b-b49e-41e5d7915481",
+      "shortBio": "Android Technical Team Lead at in IG in Krakow, member of the Google Developer Expert program on Android, co-organizer of GDG Krakow",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/herych/",
+        "name": "LinkedIn"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/mherych",
+        "name": "Twitter"
+      }],
+      "order": 10,
+      "title": "Head of Mobile"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
