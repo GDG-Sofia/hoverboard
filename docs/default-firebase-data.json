@@ -157,6 +157,23 @@
     ],
     "order": 1,
     "title": "Community Partners"
+  }, {
+    "logos": [
+      {
+        "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fkaldata_media_partner.png?alt=media&token=91b91180-4c24-4085-aa08-0d82e27c8120",
+        "name": "Kaldata",
+        "url": "https://www.kaldata.com/"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fdevstyler_logo.png?alt=media&token=09269f41-d7f9-458d-a6f6-9d56bf244209",
+        "name": "DevStyleR",
+        "url": "https://devstyler.io/"
+      }
+    ],
+    "order": 1,
+    "title": "Media Partners"
   }],
   "schedule": {
     "2019-10-05": {
