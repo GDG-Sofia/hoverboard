@@ -324,7 +324,7 @@
       "tags": ["Flutter", "Dart", "Mobile"]
     },
     "107": {
-      "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up my backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
+      "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up your backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
       "language": "English",
       "speakers": ["jeroen_meijer"],
       "title": "Flutter After Hello World",
@@ -525,14 +525,14 @@
           "name": "gde"
         }
       ],
-      "bio": "Jay is a Dutch freelance full-stack app developer, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping. With two years of experience writing Flutter apps, he has contributed to multiple open source projects and given talks about various facets of the Flutter ecosystem. In his free time, Jay likes to experiment with new and exciting technologies such as TypeScript apps and Flutter for web.",
+      "bio": "Jay is a Dutch freelance full-stack app developer, Flutter and Dart GDE, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping. With two years of experience writing Flutter apps, he has contributed to multiple open source projects and given talks about various facets of the Flutter ecosystem. In his free time, Jay likes to experiment with new and exciting technologies such as TypeScript apps and Flutter for web.",
       "company": "Freelance",
       "country": "Rotterdam, The Netherlands",
       "featured": true,
       "name": "Jeroen Meijer (Jay)",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Jeroen.jpeg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FJeroen.jpeg?alt=media&token=3fe212ad-a62c-424d-8182-d36c15bc19de",
-      "shortBio": "Jay is a freelance full-stack app developer, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping.",
+      "shortBio": "Jay is a Dutch freelance full-stack app developer, Flutter and Dart GDE, administrator and moderator for the Flutter Community organisation and host of the live programming show GenericTyping.",
       "socials": [
         {
           "icon": "twitter",
