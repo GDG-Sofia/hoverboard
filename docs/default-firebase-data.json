@@ -693,14 +693,14 @@
       "title": "  Software Engineer "
     },
     "marian_zlatev": {
-      "bio": "",
+      "bio": "Marian Zlatev is a pragmatic engineer that enjoys solving everyday challenges that others shy away from. \nHis professional experience ranges from writing network management software and tooling to enterprise payment solutions, while in his free time\nhe teaches Java at a local academy and maintains an Android app with more than 50k downloads.\nAs a strong believer in readable and maintainable code, you can see him talk at \nconferences about architecture and testability.",
       "company": "Smule",
       "country": "Sofia, Bulgaria",
       "featured": false,
       "name": "Marian Zlatev",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/marianzlatev.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmarianzlatev.jpg?alt=media&token=d57b8ecc-a0de-4f53-92b5-e55fd4535000",
-      "shortBio": "",
+      "shortBio": "Marian Zlatev is a pragmatic engineer that enjoys solving everyday challenges that others shy away from.",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/marian-zlatev-6a53007b/",
