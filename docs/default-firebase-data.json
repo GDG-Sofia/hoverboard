@@ -153,6 +153,30 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fdev_bg.png?alt=media&token=9a334f77-9dc3-40a8-8bdb-10bbbd296f01",
         "name": "Dev.bg",
         "url": "https://www.dev.bg"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FWWC%20Sofia%20Logo.png?alt=media&token=ef04885a-e39f-4500-8b9a-1fdfa4032cd3",
+        "name": "WWC Sofia",
+        "url": "https://www.meetup.com/Women-Who-Code-Sofia/"
+      },
+      {
+        "order": 2,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FCodingGirlsLogo.png?alt=media&token=bce97075-4fc6-4e49-9b95-c1cee0b5dc09",
+        "name": "Coding Girls",
+        "url": "https://www.coding-girls.com/"
+      },
+      {
+        "order": 3,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FRGS%20logo.png?alt=media&token=a64427af-898c-4244-990f-8581a4130df0",
+        "name": "Rails Girls",
+        "url": "http://railsgirls.com/sofia.html"
+      },
+      {
+        "order": 4,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FbcwtLOGO.png?alt=media&token=6c016fc3-2d10-49b4-ac66-2229c5e8def0",
+        "name": "BCWT",
+        "url": "https://bcwt.bg/en/"
       }
     ],
     "order": 1,
@@ -303,11 +327,11 @@
       "title": "Keynote"
     },
     "104": {
-      "title": "From Web to Mobile with NativeScript and Angular",
+      "description": "This talk will cover how to build, optimise and host your PWA to provide native-like app experiences. It provides guidelines for best practices of building a PWA and platform optimisations targeting multiple platforms. After building your PWA with guidelines of this talk, your app will score 100 on Lighthouse PWA audit!",
       "language": "English",
-      "description": "The Angular and NativeScript teams teamed up to create a new way to share your code between web and mobile apps with Angular and NativeScript. It allows you to easily share the business logic of your app, while providing you an intuitive way to separate the code that is different between the platforms. The ability to share code between your Angular web app and Native mobile apps has never been easier (or more important). Who has the time to invest resources into separate apps for web, native iOS, and native Android? In this talk you will learn how to take an existing Angular Web project and add NativeScript to it, by converting it to a code-sharing project. Then we will go through a few steps of converting individual components and modules into a code-sharing structure.",
-      "speakers": ["stanimira_vlaeva"],
-      "tags": ["Angular", "NativeScript", "Mobile"]
+      "title": "Mobile platform guidelines with PWA: yes, no problem!",
+      "speakers": ["onder"],
+      "tags": ["PWA", "Mobile", "Firebase", "Angular", "Lighthouse"]
     },
     "105": {
       "description": "You are a developer with exciting ideas to launch online, and you want to be all set for success from the start?\nThis session will introduce the Google Cloud Platform key components by replaying the past 10 years at SnapEngage on the Cloud Platform, adding components of the platform one by one to grow from an idea, to a feature and finally to a software as a service serving billions of queries every month. We will cover App Engine, Cloud Storage, BigQuery, Compute Engine, Cloud Functions, Firestore, Cloud Pub/Sub and also mention some interesting non-Google developer products which complement the Cloud Platform.",
@@ -343,11 +367,11 @@
       "title": "Lunch"
     },
     "110": {
-      "description": "",
+      "title": "From Web to Mobile with NativeScript and Angular",
       "language": "English",
-      "title": "The complexity of integrating more than 150 devices into Google Home system",
-      "speakers": ["urban"],
-      "tags": ["Google Home"]
+      "description": "The Angular and NativeScript teams teamed up to create a new way to share your code between web and mobile apps with Angular and NativeScript. It allows you to easily share the business logic of your app, while providing you an intuitive way to separate the code that is different between the platforms. The ability to share code between your Angular web app and Native mobile apps has never been easier (or more important). Who has the time to invest resources into separate apps for web, native iOS, and native Android? In this talk you will learn how to take an existing Angular Web project and add NativeScript to it, by converting it to a code-sharing project. Then we will go through a few steps of converting individual components and modules into a code-sharing structure.",
+      "speakers": ["stanimira_vlaeva"],
+      "tags": ["Angular", "NativeScript", "Mobile"]
     },
     "111": {
       "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
@@ -357,7 +381,7 @@
       "tags": ["JavaScript", "Angular"]
     },
     "112": {
-      "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.",
+      "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.\n\n Prerequisites:\n- Laptop\n- IntelliJ IDEA: 2018.1+ (https://www.jetbrains.com/idea/download/)\n- Kotlin plugin 1.3.0+\n- A github account",
       "language": "English",
       "title": "Kotlin/Everywhere - Coroutines in Practice",
       "speakers": ["viktor_penelski", "marian_zlatev"],
@@ -403,16 +427,16 @@
       "tags": ["PWA", "Mobile", "Firebase", "Angular", "Ionic", "Lighthouse"]
     },
     "119": {
-      "description": "This talk will cover how to build, optimise and host your PWA to provide native-like app experiences. It provides guidelines for best practices of building a PWA and platform optimisations targeting multiple platforms. After building your PWA with guidelines of this talk, your app will score 100 on Lighthouse PWA audit!",
+      "description": "Lecture 11",
       "language": "English",
-      "title": "Mobile platform guidelines with PWA: yes, no problem!",
-      "speakers": ["onder"],
-      "tags": ["PWA", "Mobile", "Firebase", "Angular", "Lighthouse"]
+      "title": "Lecture 11"
     },
     "120": {
-      "description": "Lecture 12.",
+      "description": "",
       "language": "English",
-      "title": "Lecture 12"
+      "title": "The complexity of integrating more than 150 devices into Google Home system",
+      "speakers": ["urban"],
+      "tags": ["Google Home"]
     },
     "121": {
       "description": "Closing!",
