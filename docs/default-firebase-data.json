@@ -341,11 +341,11 @@
       "tags": ["App Engine", "Cloud Storage", "BigQuery", "Compute Engine", "Cloud Functions", "Firestore", "Cloud Pub/Sub"]
     },
     "106": {
-      "description": "Flutter is a great way to build mobile apps for iOS and Android from a single codebase. But did you know that Flutter is expanding beyond mobile to run on desktop and the web, too? In this talk, you'll see two developers live code a real-world app that runs on all of these platforms that highlights.",
+      "description": "You need the following pieces of software to complete this workshop:\n\n- The [Flutter SDK](https://flutter.io/get-started/install/)\n- [An editor](https://flutter.io/get-started/editor/) (you can use your preferred editor) \n\nYou can run the code using one or more of the following devices: \n- A physical device (i.e., mobile phone): [Android](https://flutter.io/setup-macos/#set-up-your-android-device) or [iOS](https://flutter.io/setup-macos/#deploy-to-ios-devices)\n- The [iOS simulator](https://flutter.io/setup-macos/#set-up-the-ios-simulator) (requires installing XCode tools)\n- The [Android emulator](https://flutter.io/setup-macos/#set-up-the-android-emulator) (requires installing and setup in Android Studio)",
       "language": "English",
-      "title": "Building Flutter Apps",
+      "title": "Building Flutter Apps + Firebase",
       "speakers": ["tom_mladenov", "vladimir_tasev"],
-      "tags": ["Flutter", "Dart", "Mobile"]
+      "tags": ["Flutter", "Dart", "Mobile", "Firebase"]
     },
     "107": {
       "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up your backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
@@ -374,16 +374,14 @@
       "tags": ["Angular", "NativeScript", "Mobile"]
     },
     "111": {
-      "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
+      "description": "Lecture 6.",
       "language": "English",
-      "title": "Deep dive into zone.js",
-      "speakers": ["ilia_idakiev"],
-      "tags": ["JavaScript", "Angular"]
+      "title": "Lecture 6"
     },
     "112": {
       "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.\n\n Prerequisites:\n- Laptop\n- IntelliJ IDEA: 2018.1+ (https://www.jetbrains.com/idea/download/)\n- Kotlin plugin 1.3.0+\n- A github account",
       "language": "English",
-      "title": "Kotlin/Everywhere - Coroutines in Practice",
+      "title": "Kotlin concurrency in practice: Introduction to coroutines",
       "speakers": ["viktor_penelski", "marian_zlatev"],
       "tags": ["Kotlin", "Kotlin Everywhere"],
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
@@ -415,9 +413,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "117": {
-      "description": "Lecture 10.",
+      "description": "In this talk, Ilia Idakiev will talk about the small but useful library called zone.js which is inspired by Dart and is used internally by angular to detect when async operations occur. Since changes are related to async operations we can easily understand that something happened and re-render our components.",
       "language": "English",
-      "title": "Lecture 10"
+      "title": "Deep dive into zone.js",
+      "speakers": ["ilia_idakiev"],
+      "tags": ["JavaScript", "Angular"]
     },
     "118": {
       "description": "Adding PWA capabilities to an Angular app is easy with adding @angular/pwa via ng cli. However, you need to do more on your app to create best experiences for your users on multiple platforms. This session will cover what you need to do to optimise your PWA for the production with the guidelines of best practices and platform optimisations.\n\n\n\nThese optimisations include iOS compatibility, web app manifest and ngsw configuration along with firebase server configuration.\n\n\n\nHeadlines of the workshop:\n\n\n\n* State of the PWA development\n\n* Adding the PWA schematic to an angular app\n\n* Changing Web App Manifest file\n\n* Displaying Add to Home Screen guidelines\n\n* Adding meta tags for platform optimisation\n\n* Configuring Angular service worker\n\n* Extending Angular service worker\n\n* Updating your PWA\n\n* Hosting your PWA on Firebase\n\n* Configuring the Firebase hosting for your PWA\n\n* Deploying your PWA to Firebase\n\n* Auditing your PWA with Lighthouse\n\n\n\nSource of the workshop can be found here: https://github.com/onderceylan/pwa-workshop-angular-firebase",
@@ -705,8 +705,8 @@
       "country": "Sofia, Bulgaria",
       "featured": false,
       "name": "Viktor Penelski",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/viktorpenelski.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fviktorpenelski.jpg?alt=media&token=2da217f1-839d-4810-8850-97157c088715",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/viktor_penelski.png",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fviktor_penelski.png?alt=media&token=10063916-dd8d-4996-8778-6e03ccd1993f",
       "shortBio": "By day a Java engineer at Falcon.io, by night a Kotlin enthusiast, dreaming of a world free of null pointer exceptions",
       "socials": [{
         "icon": "linkedin",
