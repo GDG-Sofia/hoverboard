@@ -348,11 +348,11 @@
       "tags": ["Flutter", "Dart", "Mobile", "Firebase"]
     },
     "107": {
-      "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up your backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
+      "title": "From Web to Mobile with NativeScript and Angular",
       "language": "English",
-      "speakers": ["jeroen_meijer"],
-      "title": "Flutter After Hello World",
-      "tags": ["Flutter", "Dart", "Mobile"]
+      "description": "The Angular and NativeScript teams teamed up to create a new way to share your code between web and mobile apps with Angular and NativeScript. It allows you to easily share the business logic of your app, while providing you an intuitive way to separate the code that is different between the platforms. The ability to share code between your Angular web app and Native mobile apps has never been easier (or more important). Who has the time to invest resources into separate apps for web, native iOS, and native Android? In this talk you will learn how to take an existing Angular Web project and add NativeScript to it, by converting it to a code-sharing project. Then we will go through a few steps of converting individual components and modules into a code-sharing structure.",
+      "speakers": ["stanimira_vlaeva"],
+      "tags": ["Angular", "NativeScript", "Mobile"]
     },
     "108": {
       "description": "Using Kotlin for JS Client and JVM Server",
@@ -367,11 +367,11 @@
       "title": "Lunch"
     },
     "110": {
-      "title": "From Web to Mobile with NativeScript and Angular",
+      "description": "You got Flutter installed and have successfully made your first project, maybe a counter example or a project of your own. But what now? What are the next steps? How do you build your app faster? How is state management done? How do you hook up your backend? Can you use native APIs? In this talk, I go over what to do after your introduction to the Flutter world and give tips and advice on learning to grow your skills for this wonderful framework.",
       "language": "English",
-      "description": "The Angular and NativeScript teams teamed up to create a new way to share your code between web and mobile apps with Angular and NativeScript. It allows you to easily share the business logic of your app, while providing you an intuitive way to separate the code that is different between the platforms. The ability to share code between your Angular web app and Native mobile apps has never been easier (or more important). Who has the time to invest resources into separate apps for web, native iOS, and native Android? In this talk you will learn how to take an existing Angular Web project and add NativeScript to it, by converting it to a code-sharing project. Then we will go through a few steps of converting individual components and modules into a code-sharing structure.",
-      "speakers": ["stanimira_vlaeva"],
-      "tags": ["Angular", "NativeScript", "Mobile"]
+      "speakers": ["jeroen_meijer"],
+      "title": "Flutter After Hello World",
+      "tags": ["Flutter", "Dart", "Mobile"]
     },
     "111": {
       "description": "Lecture 6.",
