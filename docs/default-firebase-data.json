@@ -374,9 +374,11 @@
       "tags": ["Flutter", "Dart", "Mobile"]
     },
     "111": {
-      "description": "Lecture 6.",
+      "description": "In this session I will be talking about how research fits with your plan of building and shipping your product, why you should do research in the first place and what to do when you don't have a customer database to talk to.\n\n",
       "language": "English",
-      "title": "Lecture 6"
+      "speakers": ["anca"],
+      "title": "You are not your customers",
+      "tags": ["Associated Technologies"]
     },
     "112": {
       "description": "Let's see how Kotlin Coroutines are used to solve real-life concurrency and coordination problems. With coroutines we don't have to worry about shared mutable state and synchronization. We can solve the problems we face using a number of communicating coroutines, where each piece of state is confined to a single coroutine.\n\n Prerequisites:\n- Laptop\n- IntelliJ IDEA: 2018.1+ (https://www.jetbrains.com/idea/download/)\n- Kotlin plugin 1.3.0+\n- A github account",
@@ -698,6 +700,23 @@
       }],
       "order": 11,
       "title": "JavaScript Tech Lead"
+    },
+    "anca": {
+      "bio": "User researcher, currently gone freelancer after having experienced both the corporate (Ipsos and IBM) and start-up (Omniconvert) worlds. Passionate about teaching others how to use Design Thinking to better craft human-centered digital products and services.",
+      "company": "",
+      "country": "Bucharest, Romania",
+      "featured": false,
+      "name": "Anca Sandu",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/anca.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fanca.jpg?alt=media&token=285d468c-c068-41e3-9834-6e802f4dd1c5",
+      "shortBio": "User researcher, currently gone freelancer after having experienced both the corporate (Ipsos and IBM) and start-up (Omniconvert) worlds.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/anca-teodora-sandu-5855a222/",
+        "name": "LinkedIn"
+      }],
+      "order": 12,
+      "title": " Freelancer. Previously Product Manager at Omniconvert"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
