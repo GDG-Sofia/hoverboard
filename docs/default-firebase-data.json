@@ -133,6 +133,17 @@
     "logos": [
       {
         "order": 0,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fsumup_logo.png?alt=media&token=558b9e7a-4619-4633-9f42-59c082ddffab",
+        "name": "SumUp",
+        "url": "https://sumup.com/"
+      }
+    ],
+    "order": 1,
+    "title": "Silver Sponsors"
+  }, {
+    "logos": [
+      {
+        "order": 0,
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fjetbrains-logo.png?alt=media&token=eeec0c50-d359-4232-b3da-1b4d5a4b9ed8",
         "name": "JetBrains",
         "url": "https://www.jetbrains.com"
