@@ -333,9 +333,11 @@
       "title": "GDG DevFest Bulgaria 2019 Opening"
     },
     "103": {
-      "description": "Keynote.",
+      "description": "Cloud Functions, Cloud Run, and App Engine are serverless solutions offered on Google Cloud Platform. They all free developers from maintaining servers, accelerating software development and reducing costs. Learn how to use these platforms in an efficient way for creating well-performing services that serve customers’ needs.",
       "language": "English",
-      "title": "Keynote"
+      "title": "Go Serverless with Google Cloud",
+      "speakers": ["marek"],
+      "tags": ["App Engine", "Compute Engine", "Cloud Functions", "Cloud Run"]
     },
     "104": {
       "description": "This talk will cover how to build, optimise and host your PWA to provide native-like app experiences. It provides guidelines for best practices of building a PWA and platform optimisations targeting multiple platforms. After building your PWA with guidelines of this talk, your app will score 100 on Lighthouse PWA audit!",
@@ -465,6 +467,30 @@
     }
   },
   "speakers": {
+    "marek": {
+      "bio": "Senior Software Engineer at Google Warsaw, in Cloud Data Analytics. He manages a team working on Data Catalog. Prior to Catalog, Marek worked for four years on Google Cloud Functions building the product from scratch, and advancing over time from a team member to a Tech Lead and a manager for new languages and privacy. Before Google, Marek worked on the back-end of the enterprise dedupe storage appliance NEC HYDRAstor, and on data analysis tools for LHC at CERN. He holds master degrees in both Computer Science and Physics (Vrije Universiteit Amsterdam and University of Warsaw) and a PhD in Computer Science (UW) for research on lossless data compression. In his spare time, Marek enjoys hiking, dancing and gym.",
+      "company": "Google",
+      "country": "Warsaw, Poland",
+      "featured": true,
+      "name": "Marek Biskup",
+      "badges": [
+        {
+          "description": "Senior Software Engineer at Google",
+          "link": "https://google.com",
+          "name": "google"
+        }
+      ],
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/marek.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmarek.jpg?alt=media&token=a1c686b3-2002-44e0-918e-85cbec9bd7f6",
+      "shortBio": "Part of Google Cloud Data Analytics, manages a team working in Data Catalog. Before he was member of the Google Cloud functions for four years, building the product from scratch.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://pl.linkedin.com/in/marekbiskup",
+        "name": "LinkedIn"
+      }],
+      "order": 0,
+      "title": "Senior Software Engineer"
+    },
     "alexander_podkhalyuzin": {
       "bio": "Alexander Podkhalyuzin is Kotlin IDE team lead. He joined Kotlin team just few years ago as Kotlin/Native tooling lead then general Kotlin IDE, before that he was responsible for Scala plugin for IntelliJ IDEA for nine years. so complicated stuff like Kotlin/Native and Kotlin/Multiplatform cannot scary him, especially with math education around mathematical physics and probability theory. Worked for five years teaching Scala in Academic University. Father of three kids and founder of few educational centers for children in St. Petersburg.",
       "company": "JetBrains",
