@@ -440,9 +440,12 @@
       "tags": ["PWA", "Mobile", "Firebase", "Angular", "Ionic", "Lighthouse"]
     },
     "119": {
-      "description": "Lecture 11",
+      "description": "Which are the TODOs and NOT TODOs I found during the last two years using Kotlin as an android developer.",
       "language": "English",
-      "title": "Lecture 11"
+      "title": "Best findings in Kotlin for Android",
+      "speakers": ["valerica"],
+      "tags": ["Android", "Kotlin", "Kotlin Everywhere"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "120": {
       "description": "",
@@ -713,6 +716,12 @@
       "title": "JavaScript Tech Lead"
     },
     "anca": {
+      "badges": [
+        {
+          "description": "Women Tech Maker",
+          "name": "wtm"
+        }
+      ],
       "bio": "User researcher, currently gone freelancer after having experienced both the corporate (Ipsos and IBM) and start-up (Omniconvert) worlds. Passionate about teaching others how to use Design Thinking to better craft human-centered digital products and services.",
       "company": "",
       "country": "Bucharest, Romania",
@@ -728,6 +737,29 @@
       }],
       "order": 12,
       "title": " Freelancer. Previously Product Manager at Omniconvert"
+    },
+    "valerica": {
+      "badges": [
+        {
+          "description": "Women Tech Maker",
+          "name": "wtm"
+        }
+      ],
+      "bio": "Android Developer by day @ Avira, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world. ",
+      "company": "Avira",
+      "country": "Bucharest, Romania",
+      "featured": false,
+      "name": "Valerica Plesu",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/valerica.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fvalerica.jpg?alt=media&token=83c121f9-41b8-4177-a648-851e6fff56db",
+      "shortBio": "Android Developer by day, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world. ",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/valerica-plesu-42429762/",
+        "name": "LinkedIn"
+      }],
+      "order": 13,
+      "title": "Senior Mobile Developer"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
@@ -764,6 +796,12 @@
       "title": "Software Engineer "
     },
     "tom_mladenov": {
+      "badges": [
+        {
+          "description": "Google Developer Group",
+          "name": "gdg"
+        }
+      ],
       "bio": "As an engineering lead for Paysafe's web projects, he spends most of his 9-5 time working with Angular.\n\nApart from that he reads, experiments, teaches and spreads the word for other exciting technologies such as Flutter, Kotlin, Go, Firebase and Google Cloud Platform.\n\nOutside the office, he prays for deep snow, a waxed snowboard and a working lift.",
       "company": "",
       "country": "Sofia, Bulgaria",
