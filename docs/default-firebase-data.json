@@ -136,6 +136,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fsumup_logo.png?alt=media&token=558b9e7a-4619-4633-9f42-59c082ddffab",
         "name": "SumUp",
         "url": "https://sumup.com/"
+      },
+      {
+        "order": 1,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Ftide-logo.png?alt=media&token=2afa5f70-c693-4131-89a2-43d433e99e0d",
+        "name": "Tide",
+        "url": "https://www.tide.co/"
       }
     ],
     "order": 1,
@@ -153,6 +159,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fhire_heroes.png?alt=media&token=495211da-f013-4840-a6a9-cf7fac1df9b0",
         "name": "Hire Heroes",
         "url": "https://hireheroes.bg/"
+      },
+      {
+        "order": 2,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Febag.png?alt=media&token=a5da3649-5275-41e2-974c-4f8e5b1eb239",
+        "name": "eBag",
+        "url": "https://www.ebag.bg/"
       }
     ],
     "order": 1,
@@ -205,6 +217,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Fdevstyler_logo.png?alt=media&token=09269f41-d7f9-458d-a6f6-9d56bf244209",
         "name": "DevStyleR",
         "url": "https://devstyler.io/"
+      },
+      {
+        "order": 2,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Ftechnology_bg.png?alt=media&token=efadeb17-1b8c-429f-b39d-d0a999cb509c",
+        "name": "Tech BG",
+        "url": "https://technology.bg/"
       }
     ],
     "order": 1,
