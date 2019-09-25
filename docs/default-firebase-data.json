@@ -850,8 +850,8 @@
       "country": "Sofia, Bulgaria",
       "featured": false,
       "name": "Sofia Lyateva",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FSofia%20Lyateva.jpg?alt=media&token=701bcbce-e6c2-49c2-8e52-37a4a35ef2f2",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/sofi.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2Fsofi.jpg?alt=media&token=be8a27fa-7ce0-4a0c-903f-7544d6dfa515",
       "shortBio": "Women Techmakers Lead, GDG Sofia organizer and a corporate communications & brand expert.",
       "socials": [{
         "icon": "linkedin",
@@ -863,7 +863,7 @@
           "name": "Twitter"
       }],
       "order": 15,
-      "title": "Senior Mobile Developer"
+      "title": "Corporate Communications & HR Brand Expert"
     },
     "viktor_penelski": {
       "bio": "Having spent most of his career working with Java - from microservices and libraries to enterprise monoliths and educational content, Viktor enjoys the JVM ecosystem but always thought that something is missing. After bumping into Kotlin in 2017, he was immediately enthralled with the practicality of the language and has been using it ever since.",
@@ -947,8 +947,8 @@
   "team": [{
     "members": [{
         "name": "Sofia Lyateva",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FSofia%20Lyateva.jpg?alt=media&token=701bcbce-e6c2-49c2-8e52-37a4a35ef2f2",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/sofi.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2Fsofi.jpg?alt=media&token=be8a27fa-7ce0-4a0c-903f-7544d6dfa515",
         "socials": [{
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/sofialyateva/",
