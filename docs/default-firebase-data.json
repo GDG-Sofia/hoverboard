@@ -348,7 +348,9 @@
     "102": {
       "description": "GDG DevFest Bulgaria 2019 Opening.",
       "language": "English",
-      "title": "GDG DevFest Bulgaria 2019 Opening"
+      "title": "GDG DevFest Bulgaria 2019 Opening",
+      "speakers": ["maria", "sofia"],
+      "tags": ["GDG", "WTM", "DevFest", "community"]
     },
     "103": {
       "description": "Cloud Functions, Cloud Run, and App Engine are serverless solutions offered on Google Cloud Platform. They all free developers from maintaining servers, accelerating software development and reducing costs. Learn how to use these platforms in an efficient way for creating well-performing services that serve customers’ needs.",
@@ -759,6 +761,34 @@
       "order": 11,
       "title": "JavaScript Tech Lead"
     },
+    "maria": {
+      "badges": [
+        {
+          "description": "Developer Relations in Google",
+          "link": "https://google.com",
+          "name": "google"
+        }
+      ],
+      "bio": "Maria is part of the Europen Developer Relations team at Google, where she's a community specialist that takes care of Central and Eastern Europe communities. She's being working with tech communities and startups for more than 10 years. From Galicia (Spain) but living in Prague, she's a language geek, and a food and triathlon lover.",
+      "company": "Google",
+      "country": "Prague, Czech Republic",
+      "featured": false,
+      "name": "Maria Encinar",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Maria.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FMaria.jpg?alt=media&token=87da5b7e-e122-4b03-b7a2-f73e837694a1",
+      "shortBio": "Maria is part of the Europen Developer Relations team at Google, where she's a community specialist that takes care of Central and Eastern Europe communities.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/mariaencinar/",
+        "name": "LinkedIn"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/mariaencinar",
+        "name": "Twitter"
+      }],
+      "order": 12,
+      "title": "Developer Relations"
+    },
     "anca": {
       "badges": [
         {
@@ -779,7 +809,7 @@
         "link": "https://www.linkedin.com/in/anca-teodora-sandu-5855a222/",
         "name": "LinkedIn"
       }],
-      "order": 12,
+      "order": 13,
       "title": " Freelancer. Previously Product Manager at Omniconvert"
     },
     "valerica": {
@@ -789,20 +819,50 @@
           "name": "wtm"
         }
       ],
-      "bio": "Android Developer by day @ Avira, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world. ",
+      "bio": "Android Developer by day @ Avira, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world.",
       "company": "Avira",
       "country": "Bucharest, Romania",
       "featured": false,
       "name": "Valerica Plesu",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/valerica.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fvalerica.jpg?alt=media&token=83c121f9-41b8-4177-a648-851e6fff56db",
-      "shortBio": "Android Developer by day, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world. ",
+      "shortBio": "Android Developer by day, cooking enthusiastic, IoT and smart-home oriented by night. \nI love the idea of teaching so I spread Android to the whole world.",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/valerica-plesu-42429762/",
         "name": "LinkedIn"
       }],
-      "order": 13,
+      "order": 14,
+      "title": "Senior Mobile Developer"
+    },
+    "sofia": {
+      "badges": [
+        {
+          "description": "Women Tech Maker",
+          "name": "wtm"
+        }, {
+          "description": "Google Developer Group",
+          "name": "gdg"
+        }
+      ],
+      "bio": "Sofi is a Women Techmakers Lead, GDG Sofia organizer and a corporate communications & brand expert. Her vast experience in PR and community branding has led her to be recognized for her contribution to the Bulgarian Dev community since her engagement with GDG Sofia.",
+      "company": "Devexperts",
+      "country": "Sofia, Bulgaria",
+      "featured": false,
+      "name": "Sofia Lyateva",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Sofia Lyateva.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FSofia%20Lyateva.jpg?alt=media&token=701bcbce-e6c2-49c2-8e52-37a4a35ef2f2",
+      "shortBio": "Women Techmakers Lead, GDG Sofia organizer and a corporate communications & brand expert.",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/sofialyateva/",
+        "name": "LinkedIn"
+      }, {
+          "icon": "twitter",
+          "link": "https://twitter.com/Sophia_Kinney",
+          "name": "Twitter"
+      }],
+      "order": 15,
       "title": "Senior Mobile Developer"
     },
     "viktor_penelski": {
@@ -851,15 +911,14 @@
       "country": "Sofia, Bulgaria",
       "featured": false,
       "name": "Tom Mladenov",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
+      "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.jpg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.jpg?alt=media&token=4268bbf0-1b76-4227-8017-0a104f1c74e0",
       "shortBio": "Engineering lead for Angular and Web technologies @ Paysafe. Devfest co-organizer who believes in the great technology.",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tomdavidm/",
         "name": "LinkedIn"
-      },
-        {
+      }, {
           "icon": "twitter",
           "link": "https://twitter.com/t0mdavid",
           "name": "Twitter"
@@ -932,8 +991,8 @@
         "order": 4
       }, {
         "name": "Tom Mladenov",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.png",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.png?alt=media&token=8ae97ece-041f-4456-a77b-dcec7f1acdd6",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.jpg?alt=media&token=4268bbf0-1b76-4227-8017-0a104f1c74e0",
         "socials": [{
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/tomdavidm/",
