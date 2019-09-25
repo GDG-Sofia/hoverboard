@@ -1019,6 +1019,18 @@
           "name": "LinkedIn"
         }],
         "order": 7
+      }, {
+        "name": "Stanimira Vlaeva",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/StanimiraVlaeva",
+            "name": "Twitter"
+          }
+        }],
+        "order": 8
       }
     ],
     "title": "Core Team"
