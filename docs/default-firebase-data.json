@@ -966,30 +966,6 @@
         }],
         "order": 2
       }, {
-        "name": "Nikolay Krastev",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Nikolay Krastev.jpg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FNikolay%20Krastev.jpg?alt=media&token=cffdcc40-9503-4220-8571-8d9cbd3317eb",
-        "socials": [{
-          "icon": "twitter",
-          "link": "https://twitter.com/NickyKrastev",
-          "name": "twitter"
-        }, {
-          "icon": "facebook",
-          "link": "https://www.facebook.com/Nicky.Krastev",
-          "name": "Facebook"
-        }],
-        "order": 3
-      }, {
-        "name": "Momchil Syarov",
-        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Momchil Syarov.jpeg",
-        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FMomchil%20Syarov.jpeg?alt=media&token=1f81fee3-fbc0-44f1-a424-cd5f9bc12dfc",
-        "socials": [{
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/msyarov/",
-          "name": "LinkedIn"
-        }],
-        "order": 4
-      }, {
         "name": "Tom Mladenov",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.jpg",
         "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.jpg?alt=media&token=4268bbf0-1b76-4227-8017-0a104f1c74e0",
@@ -998,7 +974,7 @@
           "link": "https://www.linkedin.com/in/tomdavidm/",
           "name": "LinkedIn"
         }],
-        "order": 5
+        "order": 3
       }, {
         "name": "Marchela Mincheva",
         "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Marchela Mincheva.jpg",
@@ -1006,6 +982,28 @@
         "socials": [{
           "icon": "linkedin",
           "link": "https://www.linkedin.com/in/marchela-mincheva/",
+          "name": "LinkedIn"
+        }],
+        "order": 4
+      }, {
+        "name": "Stanimira Vlaeva",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/StanimiraVlaeva.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FStanimiraVlaeva.jpg?alt=media&token=ae960bf8-ceb8-4297-9d03-7fdb7645279c",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/StanimiraVlaeva",
+            "name": "Twitter"
+          }
+        ],
+        "order": 5
+      }, {
+        "name": "Momchil Syarov",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Momchil Syarov.jpeg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FMomchil%20Syarov.jpeg?alt=media&token=1f81fee3-fbc0-44f1-a424-cd5f9bc12dfc",
+        "socials": [{
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/msyarov/",
           "name": "LinkedIn"
         }],
         "order": 6
@@ -1019,6 +1017,20 @@
           "name": "LinkedIn"
         }],
         "order": 7
+      }, {
+        "name": "Nikolay Krastev",
+        "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Nikolay Krastev.jpg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FNikolay%20Krastev.jpg?alt=media&token=cffdcc40-9503-4220-8571-8d9cbd3317eb",
+        "socials": [{
+          "icon": "twitter",
+          "link": "https://twitter.com/NickyKrastev",
+          "name": "twitter"
+        }, {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/Nicky.Krastev",
+          "name": "Facebook"
+        }],
+        "order": 8
       }
     ],
     "title": "Core Team"
