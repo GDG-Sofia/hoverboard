@@ -165,6 +165,12 @@
         "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2Febag.png?alt=media&token=a5da3649-5275-41e2-974c-4f8e5b1eb239",
         "name": "eBag",
         "url": "https://www.ebag.bg/"
+      },
+      {
+        "order": 3,
+        "logoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/partners%2FH2O_logo.png?alt=media&token=2f240665-8c64-452b-8952-304c1a1acfb6",
+        "name": "H2O",
+        "url": "https://pure-h2o.bg/"
       }
     ],
     "order": 1,
