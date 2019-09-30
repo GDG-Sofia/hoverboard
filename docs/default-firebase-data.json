@@ -383,7 +383,7 @@
       "description": "You need the following pieces of software to complete this workshop:\n\n- The [Flutter SDK](https://flutter.io/get-started/install/)\n- [An editor](https://flutter.io/get-started/editor/) (you can use your preferred editor) \n\nYou can run the code using one or more of the following devices: \n- A physical device (i.e., mobile phone): [Android](https://flutter.io/setup-macos/#set-up-your-android-device) or [iOS](https://flutter.io/setup-macos/#deploy-to-ios-devices)\n- The [iOS simulator](https://flutter.io/setup-macos/#set-up-the-ios-simulator) (requires installing XCode tools)\n- The [Android emulator](https://flutter.io/setup-macos/#set-up-the-android-emulator) (requires installing and setup in Android Studio)",
       "language": "English",
       "title": "Building Flutter Apps + Firebase",
-      "speakers": ["tom_mladenov", "vladimir_tasev"],
+      "speakers": ["tom_mladenov"],
       "tags": ["Flutter", "Dart", "Mobile", "Firebase"]
     },
     "107": {
@@ -931,23 +931,6 @@
         }],
       "order": 22,
       "title": "Engineering Lead"
-    },
-    "vladimir_tasev": {
-      "bio": "Experienced Software Engineer with strong interest in the technology development and high drive for novel projects. Most passionate about the Blockchain technology in its core and keen in its implementation in all operations of the economy.",
-      "company": "",
-      "country": "Sofia, Bulgaria",
-      "featured": false,
-      "name": "Vladimir Tasev",
-      "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/Vladimir Tasev.jpg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2FVladimir%20Tasev.jpg?alt=media&token=dd89193d-1cd2-45ea-9db6-c33ad34ad952",
-      "shortBio": "Experienced Software Engineer with strong interest in the technology development and high drive for novel projects",
-      "socials": [{
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/tasevvladimir/",
-        "name": "LinkedIn"
-      }],
-      "order": 23,
-      "title": "Senior Full Stack Developer"
     }
   },
   "team": [{
