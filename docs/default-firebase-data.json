@@ -690,7 +690,13 @@
       "photo": "gs://dev-fest-sofia-2019.appspot.com/speakers/momchil.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/speakers%2Fmomchil.jpg?alt=media&token=9c1c9ed1-52cf-4830-9ecf-1183d45f0216",
       "shortBio": "Momchil is a Software Engineer, currently working as a Director of Engineering in HyperScience",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/momchilrusinov/",
+          "name": "LinkedIn"
+        }
+      ],
       "order": 8,
       "title": "Director of Engineering"
     },
@@ -919,7 +925,7 @@
       "name": "Tom Mladenov",
       "photo": "gs://dev-fest-sofia-2019.appspot.com/team/Tom Mladenov.jpg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/team%2FTom%20Mladenov.jpg?alt=media&token=4268bbf0-1b76-4227-8017-0a104f1c74e0",
-      "shortBio": "Engineering lead for Angular and Web technologies @ Paysafe. Devfest co-organizer who believes in the great technology.",
+      "shortBio": "Engineering lead for Angular and Web technologies. Devfest co-organizer who believes in the great technology.",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/tomdavidm/",
