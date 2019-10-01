@@ -1,6 +1,7 @@
 import admin from 'firebase-admin';
 
 import saveUserData from './save-user-data';
+import getPeopleWhoVoted from './get-people-raffle';
 import sendGeneralNotification from './notifications';
 import scheduleNotifications from './schedule-notifications';
 import optimizeImages from './optimize-images';
@@ -11,6 +12,7 @@ import { scheduleWrite, sessionsWrite, speakersWrite } from './generate-sessions
 admin.initializeApp();
 
 export {
+  getPeopleWhoVoted,
   saveUserData,
   sendGeneralNotification,
   scheduleNotifications,
