@@ -258,9 +258,9 @@
       }, {
         "endTime": "12:00",
         "sessions": [{
-          "items": [104]
-        }, {
           "items": [105]
+        }, {
+          "items": [104]
         }, {
           "extend": 2,
           "items": [106]
@@ -269,9 +269,9 @@
       }, {
         "endTime": "13:00",
         "sessions": [{
-          "items": [107]
-        }, {
           "items": [108]
+        }, {
+          "items": [107]
         }],
         "startTime": "12:15"
       }, {
@@ -283,9 +283,9 @@
       }, {
         "endTime": "14:30",
         "sessions": [{
-          "items": [110]
-        }, {
           "items": [111]
+        }, {
+          "items": [110]
         }, {
           "extend": 2,
           "items": [112]
@@ -294,9 +294,9 @@
       }, {
         "endTime": "15:30",
         "sessions": [{
-          "items": [113]
-        }, {
           "items": [114]
+        }, {
+          "items": [113]
         }],
         "startTime": "14:45"
       }, {
@@ -308,9 +308,9 @@
       }, {
         "endTime": "16:30",
         "sessions": [{
-          "items": [116]
-        }, {
           "items": [117]
+        }, {
+          "items": [116]
         }, {
           "extend": 2,
           "items": [118]
@@ -319,9 +319,9 @@
       }, {
         "endTime": "17:30",
         "sessions": [{
-          "items": [119]
-        }, {
           "items": [120]
+        }, {
+          "items": [119]
         }],
         "startTime": "16:45"
       }, {
@@ -338,11 +338,11 @@
         "startTime": "18:00"
       }],
       "tracks": [{
-        "title": "Expo hall"
+        "title": "Hall 7"
       }, {
-        "title": "Conference hall"
+        "title": "Hall 9"
       }, {
-        "title": "Workshops hall"
+        "title": "Workshops 9.1"
       }]
     }
   },
@@ -394,12 +394,11 @@
       "tags": ["Angular", "NativeScript", "Mobile"]
     },
     "108": {
-      "description": "Using Kotlin for JS Client and JVM Server",
+      "description": "",
       "language": "English",
-      "title": "Using Kotlin for JS Client and JVM Server",
-      "speakers": ["alexander_podkhalyuzin"],
-      "tags": ["Kotlin", "Kotlin Everywhere", "Javascript"],
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
+      "title": "The complexity of integrating more than 150 devices into Google Home system",
+      "speakers": ["urban"],
+      "tags": ["Google Home"]
     },
     "109": {
       "description": "Lunch.",
@@ -476,11 +475,12 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "120": {
-      "description": "",
+      "description": "Using Kotlin for JS Client and JVM Server",
       "language": "English",
-      "title": "The complexity of integrating more than 150 devices into Google Home system",
-      "speakers": ["urban"],
-      "tags": ["Google Home"]
+      "title": "Using Kotlin for JS Client and JVM Server",
+      "speakers": ["alexander_podkhalyuzin"],
+      "tags": ["Kotlin", "Kotlin Everywhere", "Javascript"],
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dev-fest-sofia-2019.appspot.com/o/session-logos%2Fkotlin-everywhere-yellow-sofia.png?alt=media&token=5a564363-28df-47fe-8d6c-22f268f8ddf3"
     },
     "121": {
       "description": "Closing!",
