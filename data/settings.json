@@ -145,13 +145,13 @@
     "pointer": {
       "latitude": 42.684868,
       "longitude": 23.318950,
-      "zoom": 6
+      "zoom": 15 
     },
     "mapCenter": {
       "latitude": 42.684868,
       "longitude": 23.318950
     },
-    "description": "The National Palace of Culture (Национален дворец на културата, Natsionalen dvorets na kulturata; abbreviated as НДК, NDK), located in Sofia, the capital of Bulgaria, is the largest, multifunctional conference and exhibition centre in south-eastern Europe."
+    "description": "The event will be hosted in halls 7 and 9 on the 5th floor of The National Palace of Culture (abbreviated as NDK), located in Sofia, the capital of Bulgaria, is the largest, multifunctional conference and exhibition centre in south-eastern Europe."
   },
   "mediaQueries": {
     "xs": {
